@@ -2,4 +2,4 @@
 
 Accessible ADT Studio conversion of the Computer Science Form Two textbook.
 
-[Open the published book](https://reelma.me/computer-science-f2-textbook/)
+[Open the published book](http://reelma.me/computer-science-f2-textbook/)
