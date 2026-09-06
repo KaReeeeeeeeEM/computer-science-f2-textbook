@@ -1,0 +1,6927 @@
+{
+  "#define": {
+    "word": "#define",
+    "definition": "A preprocessor command used to create a named constant or macro.",
+    "variations": [
+      "#define",
+      "define",
+      "macro",
+      "macros"
+    ],
+    "emoji": "🏷️⚡",
+    "id": "gl001"
+  },
+  "5G": {
+    "word": "5G",
+    "definition": "a newer and faster mobile network technology for connecting devices to the Internet",
+    "variations": [
+      "5G"
+    ],
+    "emoji": "📶⚡",
+    "id": "gl002"
+  },
+  "abstraction": {
+    "word": "abstraction",
+    "definition": "A way of hiding complex details so a person can focus on the main idea or task more easily.",
+    "variations": [
+      "abstraction",
+      "abstractions"
+    ],
+    "emoji": "🧠🔍",
+    "id": "gl003"
+  },
+  "accelerometer": {
+    "word": "accelerometer",
+    "definition": "a sensor that detects movement, speed changes, or shaking",
+    "variations": [
+      "accelerometer",
+      "accelerometers"
+    ],
+    "emoji": "📱💨",
+    "id": "gl004"
+  },
+  "access control": {
+    "word": "access control",
+    "definition": "a method of deciding who is allowed to use certain systems or information",
+    "variations": [],
+    "emoji": "🚪🔑",
+    "id": "gl005"
+  },
+  "accessibility": {
+    "word": "accessibility",
+    "definition": "the ability to reach or use something easily when needed",
+    "variations": [],
+    "emoji": "🌍✅",
+    "id": "gl006"
+  },
+  "adaptive maintenance": {
+    "word": "adaptive maintenance",
+    "definition": "Maintenance that changes software so it works in a new environment or with new needs.",
+    "variations": [
+      "adaptive maintenance"
+    ],
+    "emoji": "🔄🌍",
+    "id": "gl007"
+  },
+  "addition": {
+    "word": "addition",
+    "definition": "A math operation that combines values to make a larger total.",
+    "variations": [
+      "addition",
+      "add"
+    ],
+    "emoji": "➕",
+    "id": "gl008"
+  },
+  "address": {
+    "word": "address",
+    "definition": "The location of a variable in the computer’s memory.",
+    "variations": [
+      "address",
+      "addresses"
+    ],
+    "emoji": "📍🧠",
+    "id": "gl009"
+  },
+  "address bar": {
+    "word": "address bar",
+    "definition": "the place in a browser where you type a website address or search words",
+    "variations": [
+      "address bar",
+      "address bars"
+    ],
+    "emoji": "⌨️🔎",
+    "id": "gl010"
+  },
+  "algorithm": {
+    "word": "algorithm",
+    "definition": "a set of rules or steps a computer follows to solve a problem or make decisions",
+    "variations": [
+      "algorithm",
+      "algorithms"
+    ],
+    "emoji": "🧠⚙️",
+    "id": "gl011"
+  },
+  "alias": {
+    "word": "alias",
+    "definition": "a short alternative name given to a module or item in code",
+    "variations": [
+      "aliases"
+    ],
+    "emoji": "🏷️",
+    "id": "gl012"
+  },
+  "and": {
+    "word": "and",
+    "definition": "A logical operator that is true only when both conditions are true.",
+    "variations": [
+      "and"
+    ],
+    "emoji": "➕✅",
+    "id": "gl013"
+  },
+  "animation": {
+    "word": "animation",
+    "definition": "a set of pictures or costume changes shown quickly to make something look like it is moving",
+    "variations": [
+      "animation",
+      "animations",
+      "animate",
+      "animated"
+    ],
+    "emoji": "🎞️🕺",
+    "id": "gl014"
+  },
+  "anti-malware": {
+    "word": "anti-malware",
+    "definition": "software made to find and remove malware from a computer or device",
+    "variations": [],
+    "emoji": "🛡️💻",
+    "id": "gl015"
+  },
+  "antispyware": {
+    "word": "antispyware",
+    "definition": "software made to detect and remove spyware from a computer.",
+    "variations": [
+      "antispyware",
+      "antispyware software"
+    ],
+    "emoji": "🛡️👀",
+    "id": "gl016"
+  },
+  "antivirus": {
+    "word": "antivirus",
+    "definition": "software designed to find, block, and remove computer viruses and other harmful programs.",
+    "variations": [
+      "antivirus",
+      "antivirus software"
+    ],
+    "emoji": "🛡️🦠",
+    "id": "gl017"
+  },
+  "API": {
+    "word": "API",
+    "definition": "a set of rules that allows different software programs to communicate with each other",
+    "variations": [
+      "APIs",
+      "Application Programming Interface",
+      "Application Programming Interfaces"
+    ],
+    "emoji": "🔌💻",
+    "id": "gl018"
+  },
+  "append": {
+    "word": "append",
+    "definition": "To add new data to the end of an existing file.",
+    "variations": [
+      "append",
+      "appends",
+      "appended",
+      "appending"
+    ],
+    "emoji": "➕📄",
+    "id": "gl019"
+  },
+  "application": {
+    "word": "application",
+    "definition": "A computer program or software used to do a specific task.",
+    "variations": [
+      "application",
+      "applications",
+      "app",
+      "apps"
+    ],
+    "emoji": "📲🧩",
+    "id": "gl020"
+  },
+  "application security": {
+    "word": "application security",
+    "definition": "protecting software and apps from weaknesses and attacks",
+    "variations": [],
+    "emoji": "📱🔒",
+    "id": "gl021"
+  },
+  "application software": {
+    "word": "application software",
+    "definition": "software that helps users do specific tasks like typing, drawing, or browsing",
+    "variations": [],
+    "emoji": "📱📝",
+    "id": "gl022"
+  },
+  "argument": {
+    "word": "argument",
+    "definition": "A value given to a function when it is called.",
+    "variations": [
+      "argument",
+      "arguments"
+    ],
+    "emoji": "📨🔢",
+    "id": "gl023"
+  },
+  "arithmetic operator": {
+    "word": "arithmetic operator",
+    "definition": "An operator used for math actions like addition, subtraction, multiplication, or division.",
+    "variations": [
+      "arithmetic operator",
+      "arithmetic operators"
+    ],
+    "emoji": "➕➖✖️",
+    "id": "gl024"
+  },
+  "ARPANET": {
+    "word": "ARPANET",
+    "definition": "an early computer network that helped lead to the creation of the Internet",
+    "variations": [
+      "ARPANET"
+    ],
+    "emoji": "🧠🖥️",
+    "id": "gl025"
+  },
+  "array": {
+    "word": "array",
+    "definition": "A group of items of the same data type stored in order and accessed by position.",
+    "variations": [
+      "array",
+      "arrays"
+    ],
+    "emoji": "📚🔢",
+    "id": "gl026"
+  },
+  "artificial intelligence": {
+    "word": "artificial intelligence",
+    "definition": "A field of computing where machines are designed to perform tasks that usually need human thinking, such as learning or decision-making.",
+    "variations": [
+      "artificial intelligence",
+      "AI"
+    ],
+    "emoji": "🤖🧠",
+    "id": "gl027"
+  },
+  "ASCII": {
+    "word": "ASCII",
+    "definition": "a coding system that gives letters, numbers, and symbols special number values so computers can store them",
+    "variations": [],
+    "emoji": "🔤🔢",
+    "id": "gl028"
+  },
+  "assembler": {
+    "word": "assembler",
+    "definition": "a program that changes assembly language into machine code",
+    "variations": [
+      "assemblers"
+    ],
+    "emoji": "🔄💻",
+    "id": "gl029"
+  },
+  "assembly language": {
+    "word": "assembly language",
+    "definition": "a low-level programming language that uses short words to represent machine instructions",
+    "variations": [],
+    "emoji": "⚙️⌨️",
+    "id": "gl030"
+  },
+  "assignment operator": {
+    "word": "assignment operator",
+    "definition": "An operator used to give a value to a variable.",
+    "variations": [
+      "assignment operator",
+      "assignment operators"
+    ],
+    "emoji": "📝➡️",
+    "id": "gl031"
+  },
+  "associativity": {
+    "word": "associativity",
+    "definition": "the rule that decides the order of evaluation when operators have the same precedence",
+    "variations": [
+      "associativity"
+    ],
+    "emoji": "↔️📐",
+    "id": "gl032"
+  },
+  "attachment": {
+    "word": "attachment",
+    "definition": "a file sent together with an email message",
+    "variations": [
+      "attachment",
+      "attachments"
+    ],
+    "emoji": "📎📄",
+    "id": "gl033"
+  },
+  "attack": {
+    "word": "attack",
+    "definition": "a planned action to harm, break into, or disrupt a system",
+    "variations": [
+      "attacks",
+      "cyberattack",
+      "cyberattacks"
+    ],
+    "emoji": "💥💻",
+    "id": "gl034"
+  },
+  "authentication": {
+    "word": "authentication",
+    "definition": "checking that a user or device is really who or what it claims to be",
+    "variations": [
+      "authenticate",
+      "authenticated"
+    ],
+    "emoji": "🔐👤",
+    "id": "gl035"
+  },
+  "authentication token": {
+    "word": "authentication token",
+    "definition": "a small digital code that shows a user has already signed in and is allowed to continue using a service",
+    "variations": [
+      "authentication token",
+      "authentication tokens",
+      "token",
+      "tokens"
+    ],
+    "emoji": "🪙🔐",
+    "id": "gl036"
+  },
+  "authenticator app": {
+    "word": "authenticator app",
+    "definition": "an app that creates special codes used to help you sign in securely",
+    "variations": [
+      "authenticator app",
+      "authenticator apps"
+    ],
+    "emoji": "📲🔢🔒",
+    "id": "gl037"
+  },
+  "auto-completion": {
+    "word": "auto-completion",
+    "definition": "a feature that suggests or finishes words and code while you are typing.",
+    "variations": [
+      "auto-completion",
+      "autocomplete"
+    ],
+    "emoji": "⚡⌨️",
+    "id": "gl038"
+  },
+  "automated": {
+    "word": "automated",
+    "definition": "Able to work by itself using programmed instructions, with little or no human help.",
+    "variations": [
+      "automated",
+      "automate",
+      "automation"
+    ],
+    "emoji": "🤖⚙️",
+    "id": "gl039"
+  },
+  "automation": {
+    "word": "automation",
+    "definition": "using computers or machines to do tasks automatically with little human effort",
+    "variations": [
+      "automate",
+      "automates",
+      "automated"
+    ],
+    "emoji": "🤖⚙️",
+    "id": "gl040"
+  },
+  "availability": {
+    "word": "availability",
+    "definition": "making sure information or systems can be used when needed",
+    "variations": [],
+    "emoji": "⏰💡",
+    "id": "gl041"
+  },
+  "average": {
+    "word": "average",
+    "definition": "a value found by adding numbers and dividing by how many there are",
+    "variations": [
+      "averages"
+    ],
+    "emoji": "📊",
+    "id": "gl042"
+  },
+  "background": {
+    "word": "background",
+    "definition": "the picture or scene behind the sprites on the stage",
+    "variations": [
+      "background",
+      "backgrounds"
+    ],
+    "emoji": "🖼️🌄",
+    "id": "gl043"
+  },
+  "backslash": {
+    "word": "backslash",
+    "definition": "the symbol \\ used in file paths and escape sequences",
+    "variations": [
+      "backslashes",
+      "\\\\"
+    ],
+    "emoji": "\\⌨️",
+    "id": "gl044"
+  },
+  "backup": {
+    "word": "backup",
+    "definition": "an extra copy of data kept safe in case the original is lost or damaged",
+    "variations": [
+      "backup",
+      "backups"
+    ],
+    "emoji": "💾🛡️",
+    "id": "gl045"
+  },
+  "BCC": {
+    "word": "BCC",
+    "definition": "an email field used to send a copy of the message to someone without other recipients seeing that address",
+    "variations": [
+      "BCC"
+    ],
+    "emoji": "📨🙈",
+    "id": "gl046"
+  },
+  "BCC field": {
+    "word": "BCC field",
+    "definition": "the space in an email where you add people who receive a hidden copy of the message",
+    "variations": [
+      "BCC field",
+      "BCC fields",
+      "BCC"
+    ],
+    "emoji": "🙈📧",
+    "id": "gl047"
+  },
+  "behavioural authentication": {
+    "word": "behavioural authentication",
+    "definition": "a security method that identifies a person by how they act, such as how they type or swipe",
+    "variations": [
+      "behavioural authentication"
+    ],
+    "emoji": "⌨️👤🔐",
+    "id": "gl048"
+  },
+  "bidding": {
+    "word": "bidding",
+    "definition": "offering a price for an item in an auction",
+    "variations": [
+      "bid",
+      "bids",
+      "bidding"
+    ],
+    "emoji": "💰🔨",
+    "id": "gl049"
+  },
+  "binary": {
+    "word": "binary",
+    "definition": "a way computers store data using only two digits: 0 and 1",
+    "variations": [
+      "binary code"
+    ],
+    "emoji": "0️⃣1️⃣",
+    "id": "gl050"
+  },
+  "binary system": {
+    "word": "binary system",
+    "definition": "a way of representing data using only 0 and 1",
+    "variations": [],
+    "emoji": "0️⃣1️⃣💻",
+    "id": "gl051"
+  },
+  "biometrics": {
+    "word": "biometrics",
+    "definition": "methods of identifying a person using body features like fingerprints or a face scan",
+    "variations": [
+      "biometric",
+      "biometrics"
+    ],
+    "emoji": "👆🙂",
+    "id": "gl052"
+  },
+  "bit": {
+    "word": "bit",
+    "definition": "the smallest unit of computer data, represented by a 0 or a 1",
+    "variations": [
+      "bits"
+    ],
+    "emoji": "1️⃣💡",
+    "id": "gl053"
+  },
+  "bitwise operator": {
+    "word": "bitwise operator",
+    "definition": "An operator that works directly on bits in binary numbers.",
+    "variations": [
+      "bitwise operator",
+      "bitwise operators"
+    ],
+    "emoji": "0️⃣1️⃣",
+    "id": "gl054"
+  },
+  "black hat hacker": {
+    "word": "black hat hacker",
+    "definition": "a hacker who breaks into systems to steal, damage, or do other harmful things",
+    "variations": [
+      "black hat hacker",
+      "black hat hackers"
+    ],
+    "emoji": "🕶️💀",
+    "id": "gl055"
+  },
+  "Blind Carbon Copy": {
+    "word": "Blind Carbon Copy",
+    "definition": "a copy of an email sent to another person whose address is hidden from other receivers",
+    "variations": [
+      "Blind Carbon Copy",
+      "BCC"
+    ],
+    "emoji": "📄🙈",
+    "id": "gl056"
+  },
+  "block": {
+    "word": "block",
+    "definition": "a coding piece in Scratch or MakeCode that you drag and connect to make a program",
+    "variations": [
+      "block",
+      "blocks"
+    ],
+    "emoji": "🧩💻",
+    "id": "gl057"
+  },
+  "blocks palette": {
+    "word": "blocks palette",
+    "definition": "The area in Scratch that contains different code blocks you can choose from.",
+    "variations": [
+      "blocks palette",
+      "block palette"
+    ],
+    "emoji": "🧱🎨",
+    "id": "gl058"
+  },
+  "bookmark": {
+    "word": "bookmark",
+    "definition": "a saved website link in a browser that helps you open the site quickly later",
+    "variations": [
+      "bookmark",
+      "bookmarks"
+    ],
+    "emoji": "🔖🌐",
+    "id": "gl059"
+  },
+  "boolean": {
+    "word": "boolean",
+    "definition": "A data type that has only two possible values: true or false.",
+    "variations": [
+      "boolean",
+      "booleans"
+    ],
+    "emoji": "✅❌",
+    "id": "gl060"
+  },
+  "Boolean value": {
+    "word": "Boolean value",
+    "definition": "A value that can only be true or false.",
+    "variations": [
+      "Boolean value",
+      "Boolean values",
+      "Boolean"
+    ],
+    "emoji": "✅❌",
+    "id": "gl061"
+  },
+  "bounce": {
+    "word": "bounce",
+    "definition": "to move back after hitting an edge or surface",
+    "variations": [
+      "bounce",
+      "bounces",
+      "bounced",
+      "bouncing"
+    ],
+    "emoji": "🏀↩️",
+    "id": "gl062"
+  },
+  "breach": {
+    "word": "breach",
+    "definition": "unauthorized access to data or a computer system",
+    "variations": [
+      "breaches"
+    ],
+    "emoji": "🚨🔓",
+    "id": "gl063"
+  },
+  "break": {
+    "word": "break",
+    "definition": "a command that stops a loop immediately",
+    "variations": [
+      "break",
+      "breaks"
+    ],
+    "emoji": "🛑✋",
+    "id": "gl064"
+  },
+  "breakpoint": {
+    "word": "breakpoint",
+    "definition": "A place in the code where execution pauses so the programmer can inspect what is happening.",
+    "variations": [
+      "breakpoint",
+      "breakpoints"
+    ],
+    "emoji": "⏸️🔍",
+    "id": "gl065"
+  },
+  "broadband": {
+    "word": "broadband",
+    "definition": "a fast Internet connection that can carry a lot of data",
+    "variations": [
+      "broadband"
+    ],
+    "emoji": "⚡🌐",
+    "id": "gl066"
+  },
+  "broadcast": {
+    "word": "broadcast",
+    "definition": "a Scratch message sent to tell other parts of the program to start an action",
+    "variations": [
+      "broadcast",
+      "broadcasts",
+      "broadcasting"
+    ],
+    "emoji": "📢📡",
+    "id": "gl067"
+  },
+  "browser": {
+    "word": "browser",
+    "definition": "a software program used to open and view websites on the Internet",
+    "variations": [
+      "browsers"
+    ],
+    "emoji": "🌐💻",
+    "id": "gl068"
+  },
+  "buffer overflow": {
+    "word": "buffer overflow",
+    "definition": "An error that happens when more data is put into memory space than it can hold.",
+    "variations": [
+      "buffer overflow",
+      "buffer overflows"
+    ],
+    "emoji": "⚠️💥",
+    "id": "gl069"
+  },
+  "bug": {
+    "word": "bug",
+    "definition": "A problem in a program that causes wrong behavior.",
+    "variations": [
+      "bug",
+      "bugs"
+    ],
+    "emoji": "🐞⚠️",
+    "id": "gl070"
+  },
+  "build system": {
+    "word": "build system",
+    "definition": "a tool that helps compile and link program files automatically",
+    "variations": [
+      "build systems"
+    ],
+    "emoji": "🏗️⚙️",
+    "id": "gl071"
+  },
+  "build tools": {
+    "word": "build tools",
+    "definition": "tools that help automate tasks like checking errors, testing code, and preparing a program to run.",
+    "variations": [
+      "build tool",
+      "build tools"
+    ],
+    "emoji": "🧱⚙️",
+    "id": "gl072"
+  },
+  "business email compromise": {
+    "word": "business email compromise",
+    "definition": "a scam where criminals use fake or hacked email accounts to trick people into sending money or information",
+    "variations": [
+      "business email compromise",
+      "BEC"
+    ],
+    "emoji": "📧💸",
+    "id": "gl073"
+  },
+  "byte": {
+    "word": "byte",
+    "definition": "a group of 8 bits used to store a small piece of information, such as a letter",
+    "variations": [
+      "bytes"
+    ],
+    "emoji": "8️⃣💾",
+    "id": "gl074"
+  },
+  "C programming": {
+    "word": "C programming",
+    "definition": "Writing computer programs using the C programming language.",
+    "variations": [
+      "C programming"
+    ],
+    "emoji": "💻🔤",
+    "id": "gl075"
+  },
+  "cache": {
+    "word": "cache",
+    "definition": "temporary stored data that helps websites or apps load faster",
+    "variations": [],
+    "emoji": "🗂️⚡",
+    "id": "gl076"
+  },
+  "call by reference": {
+    "word": "call by reference",
+    "definition": "A way of passing data to a function by giving it the address of the original variable.",
+    "variations": [
+      "call by reference"
+    ],
+    "emoji": "🔁📍",
+    "id": "gl077"
+  },
+  "call by value": {
+    "word": "call by value",
+    "definition": "A way of passing data to a function by giving it a copy of the value.",
+    "variations": [
+      "call by value"
+    ],
+    "emoji": "📄➡️",
+    "id": "gl078"
+  },
+  "call stack": {
+    "word": "call stack",
+    "definition": "the list of active function calls a program is using at a moment",
+    "variations": [
+      "call stack"
+    ],
+    "emoji": "📚🔍",
+    "id": "gl079"
+  },
+  "Carbon Copy": {
+    "word": "Carbon Copy",
+    "definition": "a copy of an email sent to another person whose address can be seen by other receivers",
+    "variations": [
+      "Carbon Copy",
+      "CC"
+    ],
+    "emoji": "📄👀",
+    "id": "gl080"
+  },
+  "case-sensitive": {
+    "word": "case-sensitive",
+    "definition": "Treating uppercase and lowercase letters as different.",
+    "variations": [
+      "case-sensitive"
+    ],
+    "emoji": "🔠🔡",
+    "id": "gl081"
+  },
+  "CC": {
+    "word": "CC",
+    "definition": "an email field used to send a copy of the message to other people, and everyone can see their addresses",
+    "variations": [
+      "CC"
+    ],
+    "emoji": "📨👥",
+    "id": "gl082"
+  },
+  "CC field": {
+    "word": "CC field",
+    "definition": "the space in an email where you add people who should receive a copy of the message",
+    "variations": [
+      "CC field",
+      "CC fields",
+      "CC"
+    ],
+    "emoji": "📄📧",
+    "id": "gl083"
+  },
+  "Central Processing Unit (CPU)": {
+    "word": "Central Processing Unit (CPU)",
+    "definition": "the main part of a computer that processes instructions and performs calculations.",
+    "variations": [
+      "Central Processing Unit",
+      "CPU",
+      "CPUs"
+    ],
+    "emoji": "🧠🖥️",
+    "id": "gl084"
+  },
+  "char": {
+    "word": "char",
+    "definition": "A data type used for a single character, such as a letter or symbol.",
+    "variations": [
+      "char",
+      "chars"
+    ],
+    "emoji": "🔤",
+    "id": "gl085"
+  },
+  "character": {
+    "word": "character",
+    "definition": "A single letter, number, or symbol stored as one item of data.",
+    "variations": [
+      "character",
+      "characters"
+    ],
+    "emoji": "🔠🔣",
+    "id": "gl086"
+  },
+  "choice": {
+    "word": "choice",
+    "definition": "a function that picks one random item from a list",
+    "variations": [
+      "choices",
+      "choice()"
+    ],
+    "emoji": "✅🎲",
+    "id": "gl087"
+  },
+  "class": {
+    "word": "class",
+    "definition": "a blueprint in programming used to create objects with related data and actions",
+    "variations": [
+      "classes"
+    ],
+    "emoji": "🏗️💻",
+    "id": "gl088"
+  },
+  "client": {
+    "word": "client",
+    "definition": "a device or program that asks for services or information from a server",
+    "variations": [
+      "client",
+      "clients"
+    ],
+    "emoji": "📱💻",
+    "id": "gl089"
+  },
+  "client-server network": {
+    "word": "client-server network",
+    "definition": "a network model in which clients request services or resources and servers provide them",
+    "variations": [
+      "client-server network",
+      "client-server networks"
+    ],
+    "emoji": "💻🖥️🔄",
+    "id": "gl090"
+  },
+  "close": {
+    "word": "close",
+    "definition": "To finish working with a file so the program stops using it.",
+    "variations": [
+      "close",
+      "closes",
+      "closed",
+      "closing"
+    ],
+    "emoji": "📁🔒",
+    "id": "gl091"
+  },
+  "cloud": {
+    "word": "cloud",
+    "definition": "online storage or services that let you save and access data through the Internet.",
+    "variations": [
+      "cloud",
+      "cloud storage"
+    ],
+    "emoji": "☁️💾",
+    "id": "gl092"
+  },
+  "cloud computing": {
+    "word": "cloud computing",
+    "definition": "using Internet services to store, manage, and use data or programs instead of keeping them only on your device",
+    "variations": [
+      "cloud computing"
+    ],
+    "emoji": "☁️💻",
+    "id": "gl093"
+  },
+  "cloud environment": {
+    "word": "cloud environment",
+    "definition": "the online system and services where cloud computing takes place",
+    "variations": [
+      "cloud environments"
+    ],
+    "emoji": "☁️🌐",
+    "id": "gl094"
+  },
+  "cloud provider": {
+    "word": "cloud provider",
+    "definition": "a company that offers cloud services such as storage, software, or computing power",
+    "variations": [
+      "cloud providers"
+    ],
+    "emoji": "☁️🏢",
+    "id": "gl095"
+  },
+  "cloud storage": {
+    "word": "cloud storage",
+    "definition": "saving files on the Internet instead of only on your own device",
+    "variations": [
+      "cloud storage"
+    ],
+    "emoji": "☁️💾",
+    "id": "gl096"
+  },
+  "code": {
+    "word": "code",
+    "definition": "written instructions in a programming language that tell a computer how to perform actions",
+    "variations": [
+      "codes",
+      "coding",
+      "coded"
+    ],
+    "emoji": "💻🧩",
+    "id": "gl097"
+  },
+  "code completion": {
+    "word": "code completion",
+    "definition": "a tool feature that suggests possible code while you type",
+    "variations": [
+      "code completion"
+    ],
+    "emoji": "⚡💡",
+    "id": "gl098"
+  },
+  "code editor": {
+    "word": "code editor",
+    "definition": "a program or area in a program where you write and edit computer code.",
+    "variations": [
+      "code editor",
+      "code editors"
+    ],
+    "emoji": "⌨️💻",
+    "id": "gl099"
+  },
+  "code review": {
+    "word": "code review",
+    "definition": "Carefully checking code to find mistakes and improve its quality.",
+    "variations": [
+      "code review",
+      "code reviews"
+    ],
+    "emoji": "👀💻",
+    "id": "gl100"
+  },
+  "coding": {
+    "word": "coding",
+    "definition": "The act of writing instructions for a computer in a programming language.",
+    "variations": [
+      "coding",
+      "code",
+      "codes"
+    ],
+    "emoji": "💻⌨️",
+    "id": "gl101"
+  },
+  "collaboration": {
+    "word": "collaboration",
+    "definition": "working together with others to complete a task or create something",
+    "variations": [
+      "collaboration",
+      "collaborations",
+      "collaborate",
+      "collaborating"
+    ],
+    "emoji": "🤝📝",
+    "id": "gl102"
+  },
+  "column": {
+    "word": "column",
+    "definition": "A vertical line of values in a table or matrix.",
+    "variations": [
+      "column",
+      "columns"
+    ],
+    "emoji": "↕️📋",
+    "id": "gl103"
+  },
+  "command line": {
+    "word": "command line",
+    "definition": "a way of using the computer by typing text commands instead of clicking icons",
+    "variations": [
+      "command-line",
+      "command-line interface",
+      "command-line interfaces"
+    ],
+    "emoji": "⌨️📟",
+    "id": "gl104"
+  },
+  "Command Prompt": {
+    "word": "Command Prompt",
+    "definition": "a Windows tool where you type commands to perform tasks on a computer",
+    "variations": [
+      "Command Prompt"
+    ],
+    "emoji": "⌨️🖥️",
+    "id": "gl105"
+  },
+  "comment": {
+    "word": "comment",
+    "definition": "a note in code written for people to read, not for the computer to run",
+    "variations": [
+      "comments",
+      "single-line comment",
+      "multi-line comment"
+    ],
+    "emoji": "💬📝",
+    "id": "gl106"
+  },
+  "commercial email address": {
+    "word": "commercial email address",
+    "definition": "an email address created through a public company service such as Gmail or Yahoo",
+    "variations": [
+      "commercial email address",
+      "commercial email addresses"
+    ],
+    "emoji": "📧🏢",
+    "id": "gl107"
+  },
+  "communicate": {
+    "word": "communicate",
+    "definition": "To send and receive information between people, computers, or devices.",
+    "variations": [
+      "communicate",
+      "communicates",
+      "communicated",
+      "communicating",
+      "communication"
+    ],
+    "emoji": "📡💬",
+    "id": "gl108"
+  },
+  "comparison operator": {
+    "word": "comparison operator",
+    "definition": "An operator used to compare two values.",
+    "variations": [
+      "comparison operator",
+      "comparison operators"
+    ],
+    "emoji": "⚖️🔍",
+    "id": "gl109"
+  },
+  "compatibility testing": {
+    "word": "compatibility testing",
+    "definition": "Testing that checks whether software works well on different devices or systems.",
+    "variations": [
+      "compatibility testing"
+    ],
+    "emoji": "📱💻",
+    "id": "gl110"
+  },
+  "competence": {
+    "word": "competence",
+    "definition": "Competence is having the knowledge and skill needed to do something well.",
+    "variations": [
+      "competence",
+      "competent"
+    ],
+    "emoji": "🎯✅",
+    "id": "gl111"
+  },
+  "compilation": {
+    "word": "compilation",
+    "definition": "the process of changing source code into a form the computer can run",
+    "variations": [
+      "compile",
+      "compiled",
+      "compiling"
+    ],
+    "emoji": "⚙️🔄",
+    "id": "gl112"
+  },
+  "compilation error": {
+    "word": "compilation error",
+    "definition": "An error found by the compiler before the program runs.",
+    "variations": [
+      "compilation error",
+      "compilation errors"
+    ],
+    "emoji": "❌⚠️",
+    "id": "gl113"
+  },
+  "compile": {
+    "word": "compile",
+    "definition": "to change program code into an executable form that a computer can run",
+    "variations": [
+      "compile",
+      "compiles",
+      "compiled",
+      "compiling"
+    ],
+    "emoji": "⚙️💻",
+    "id": "gl114"
+  },
+  "compile-time error": {
+    "word": "compile-time error",
+    "definition": "An error found before a program runs, usually while the code is being translated by the compiler.",
+    "variations": [
+      "compile-time error",
+      "compile-time errors"
+    ],
+    "emoji": "🧱❌",
+    "id": "gl115"
+  },
+  "compiler": {
+    "word": "compiler",
+    "definition": "a program that translates an entire source code into machine code or an executable file before running",
+    "variations": [
+      "compilers",
+      "compilation",
+      "compile",
+      "compiled"
+    ],
+    "emoji": "🛠️🔄",
+    "id": "gl116"
+  },
+  "compliance": {
+    "word": "compliance",
+    "definition": "following laws, rules, or required standards",
+    "variations": [],
+    "emoji": "📋✅",
+    "id": "gl117"
+  },
+  "compose": {
+    "word": "compose",
+    "definition": "to write a new email message",
+    "variations": [
+      "compose",
+      "composes",
+      "composed",
+      "composing"
+    ],
+    "emoji": "✍️📧",
+    "id": "gl118"
+  },
+  "compound assignment operator": {
+    "word": "compound assignment operator",
+    "definition": "an operator that does a calculation and assignment in one step, like += or *=",
+    "variations": [
+      "compound assignment operator",
+      "compound assignment operators"
+    ],
+    "emoji": "➕📝",
+    "id": "gl119"
+  },
+  "computer forensics": {
+    "word": "computer forensics",
+    "definition": "the investigation of computers and digital devices to find evidence of cybercrime",
+    "variations": [
+      "computer forensics",
+      "forensics",
+      "forensic"
+    ],
+    "emoji": "💻🔎⚖️",
+    "id": "gl120"
+  },
+  "computer programming": {
+    "word": "computer programming",
+    "definition": "the process of writing instructions that tell a computer what to do to complete a task or solve a problem",
+    "variations": [
+      "programming"
+    ],
+    "emoji": "💻⌨️",
+    "id": "gl121"
+  },
+  "condensation": {
+    "word": "condensation",
+    "definition": "small drops of water that form when air becomes cool, which can damage computer parts.",
+    "variations": [
+      "condensation"
+    ],
+    "emoji": "💧🖥️",
+    "id": "gl122"
+  },
+  "condition": {
+    "word": "condition",
+    "definition": "A test or rule that is checked to see if something is true or false.",
+    "variations": [
+      "condition",
+      "conditions",
+      "conditional"
+    ],
+    "emoji": "❓✅❌",
+    "id": "gl123"
+  },
+  "conditional statement": {
+    "word": "conditional statement",
+    "definition": "A statement that performs different actions depending on whether a condition is true or false.",
+    "variations": [
+      "conditional statement",
+      "conditional statements"
+    ],
+    "emoji": "❓➡️",
+    "id": "gl124"
+  },
+  "confidential": {
+    "word": "confidential",
+    "definition": "meant to be kept private and not shared with others",
+    "variations": [],
+    "emoji": "🤫🔒",
+    "id": "gl125"
+  },
+  "confidentiality": {
+    "word": "confidentiality",
+    "definition": "keeping information private so only the right people can see it",
+    "variations": [],
+    "emoji": "🔒📄",
+    "id": "gl126"
+  },
+  "connectivity": {
+    "word": "connectivity",
+    "definition": "The ability of a device or network to connect and communicate with others.",
+    "variations": [
+      "connectivity",
+      "connect"
+    ],
+    "emoji": "📶🔗",
+    "id": "gl127"
+  },
+  "console": {
+    "word": "console",
+    "definition": "The screen or window where a program shows output and may receive input.",
+    "variations": [
+      "console",
+      "consoles"
+    ],
+    "emoji": "💻🖥️",
+    "id": "gl128"
+  },
+  "const": {
+    "word": "const",
+    "definition": "A C keyword used to make a variable’s value unchangeable after it is set.",
+    "variations": [
+      "const"
+    ],
+    "emoji": "🔒🧱",
+    "id": "gl129"
+  },
+  "constant": {
+    "word": "constant",
+    "definition": "A value in a program that does not change.",
+    "variations": [
+      "constant",
+      "constants"
+    ],
+    "emoji": "🔒📌",
+    "id": "gl130"
+  },
+  "constraint": {
+    "word": "constraint",
+    "definition": "A rule or limit that a solution must follow.",
+    "variations": [
+      "constraint",
+      "constraints"
+    ],
+    "emoji": "🚧📏",
+    "id": "gl131"
+  },
+  "content delivery network": {
+    "word": "content delivery network",
+    "definition": "a group of servers placed in different locations to deliver websites and online content faster and more safely",
+    "variations": [
+      "content delivery network",
+      "CDN",
+      "content delivery networks"
+    ],
+    "emoji": "🌍🖥️",
+    "id": "gl132"
+  },
+  "continue": {
+    "word": "continue",
+    "definition": "a command that skips the current loop step and moves to the next one",
+    "variations": [
+      "continue",
+      "continues",
+      "continued"
+    ],
+    "emoji": "⏭️🔁",
+    "id": "gl133"
+  },
+  "control flow": {
+    "word": "control flow",
+    "definition": "The order in which a program’s instructions are executed.",
+    "variations": [
+      "control flow"
+    ],
+    "emoji": "➡️⚙️",
+    "id": "gl134"
+  },
+  "control structure": {
+    "word": "control structure",
+    "definition": "A programming structure that controls the order, choice, or repetition of instructions in a program.",
+    "variations": [
+      "control structure",
+      "control structures"
+    ],
+    "emoji": "🏗️➡️",
+    "id": "gl135"
+  },
+  "control variable": {
+    "word": "control variable",
+    "definition": "a variable that helps manage how a loop starts, repeats, and stops",
+    "variations": [
+      "control variable",
+      "control variables",
+      "loop control variable",
+      "loop control variables"
+    ],
+    "emoji": "🎛️🔢",
+    "id": "gl136"
+  },
+  "cookies": {
+    "word": "cookies",
+    "definition": "small files saved by websites on a device to remember information about a user",
+    "variations": [],
+    "emoji": "🍪💾",
+    "id": "gl137"
+  },
+  "copyright": {
+    "word": "copyright",
+    "definition": "a legal right that protects a person’s work so others cannot use it without permission",
+    "variations": [
+      "copyrights",
+      "copyright law",
+      "copyright laws"
+    ],
+    "emoji": "©️📚",
+    "id": "gl138"
+  },
+  "corrective maintenance": {
+    "word": "corrective maintenance",
+    "definition": "Maintenance that fixes problems or errors in software.",
+    "variations": [
+      "corrective maintenance"
+    ],
+    "emoji": "🩹🛠️",
+    "id": "gl139"
+  },
+  "corrosion": {
+    "word": "corrosion",
+    "definition": "slow damage to metal caused by water, air, or chemicals.",
+    "variations": [
+      "corrosion"
+    ],
+    "emoji": "🧪🔩",
+    "id": "gl140"
+  },
+  "costume": {
+    "word": "costume",
+    "definition": "a different picture of a sprite used to change how it looks or to create animation",
+    "variations": [
+      "costume",
+      "costumes"
+    ],
+    "emoji": "👕🎭",
+    "id": "gl141"
+  },
+  "countdown": {
+    "word": "countdown",
+    "definition": "counting backward to show that something will happen soon",
+    "variations": [
+      "countdown",
+      "countdowns"
+    ],
+    "emoji": "🔢⏳",
+    "id": "gl142"
+  },
+  "courier service": {
+    "word": "courier service",
+    "definition": "a service that delivers packages or goods from one place to another",
+    "variations": [
+      "courier service",
+      "courier services"
+    ],
+    "emoji": "📦🚚",
+    "id": "gl143"
+  },
+  "CPU": {
+    "word": "CPU",
+    "definition": "the main part of a computer that processes instructions and controls operations; it is often called the brain of the computer",
+    "variations": [
+      "Central Processing Unit",
+      "CPUs"
+    ],
+    "emoji": "🧠💻",
+    "id": "gl144"
+  },
+  "crash": {
+    "word": "crash",
+    "definition": "When a program stops working suddenly because of a serious problem.",
+    "variations": [
+      "crash",
+      "crashes",
+      "crashed"
+    ],
+    "emoji": "💥🖥️",
+    "id": "gl145"
+  },
+  "crawler": {
+    "word": "crawler",
+    "definition": "a computer program that visits websites and collects information for a search engine",
+    "variations": [
+      "crawler",
+      "crawlers"
+    ],
+    "emoji": "🤖🕸️",
+    "id": "gl146"
+  },
+  "credential": {
+    "word": "credential",
+    "definition": "information used to prove who you are, such as a username or password",
+    "variations": [
+      "credential",
+      "credentials"
+    ],
+    "emoji": "🪪🔐",
+    "id": "gl147"
+  },
+  "credentials": {
+    "word": "credentials",
+    "definition": "login information used to prove who you are, such as a username and password.",
+    "variations": [
+      "credential",
+      "credentials"
+    ],
+    "emoji": "👤🔑",
+    "id": "gl148"
+  },
+  "cross-site scripting": {
+    "word": "cross-site scripting",
+    "definition": "an attack where harmful scripts are added to a website and then run in other users’ browsers",
+    "variations": [
+      "cross-site scripting",
+      "XSS"
+    ],
+    "emoji": "🧪🌐",
+    "id": "gl149"
+  },
+  "curly braces": {
+    "word": "curly braces",
+    "definition": "the symbols { } used to mark the beginning and end of a block of code",
+    "variations": [
+      "curly brace",
+      "braces",
+      "{}"
+    ],
+    "emoji": "{}💻",
+    "id": "gl150"
+  },
+  "customer support": {
+    "word": "customer support",
+    "definition": "help given to customers before, during, or after buying a product or service",
+    "variations": [
+      "customer support"
+    ],
+    "emoji": "🙋☎️",
+    "id": "gl151"
+  },
+  "cyber threat": {
+    "word": "cyber threat",
+    "definition": "a possible danger to computers, networks, or data caused through digital technology",
+    "variations": [
+      "cyber threats"
+    ],
+    "emoji": "⚠️💻",
+    "id": "gl152"
+  },
+  "cyber warfare": {
+    "word": "cyber warfare",
+    "definition": "the use of digital attacks by one country or group against another country’s systems or infrastructure",
+    "variations": [
+      "cyber warfare"
+    ],
+    "emoji": "💻⚔️",
+    "id": "gl153"
+  },
+  "cyberattack": {
+    "word": "cyberattack",
+    "definition": "an intentional attempt to damage, steal, or gain unauthorized access to computer systems or data.",
+    "variations": [
+      "cyberattack",
+      "cyberattacks"
+    ],
+    "emoji": "💻⚠️",
+    "id": "gl154"
+  },
+  "cyberbullying": {
+    "word": "cyberbullying",
+    "definition": "using the Internet or digital devices to hurt, threaten, or embarrass someone",
+    "variations": [
+      "cyberbullied",
+      "cyberbully",
+      "cyberbullying cases"
+    ],
+    "emoji": "📱😞🚫",
+    "id": "gl155"
+  },
+  "cybercrime": {
+    "word": "cybercrime",
+    "definition": "crime carried out using computers, networks, or the Internet",
+    "variations": [
+      "cybercrimes",
+      "cyber criminal",
+      "cybercriminals"
+    ],
+    "emoji": "💻🚔",
+    "id": "gl156"
+  },
+  "cybercriminal": {
+    "word": "cybercriminal",
+    "definition": "a person who uses computers or the Internet to commit crimes",
+    "variations": [
+      "cybercriminals"
+    ],
+    "emoji": "💻🚨",
+    "id": "gl157"
+  },
+  "cybersecurity": {
+    "word": "cybersecurity",
+    "definition": "the practice of protecting computers, networks, and data from attacks or unauthorized access",
+    "variations": [
+      "cyber security"
+    ],
+    "emoji": "🛡️💻🔐",
+    "id": "gl158"
+  },
+  "cybersecurity ethics": {
+    "word": "cybersecurity ethics",
+    "definition": "moral rules for using technology and the Internet in a safe, honest, and respectful way",
+    "variations": [
+      "cybersecurity ethics",
+      "cyber ethics"
+    ],
+    "emoji": "🛡️⚖️",
+    "id": "gl159"
+  },
+  "cyberspace": {
+    "word": "cyberspace",
+    "definition": "the online world created by computers, networks, and the Internet",
+    "variations": [],
+    "emoji": "🌐💫",
+    "id": "gl160"
+  },
+  "cyberstalking": {
+    "word": "cyberstalking",
+    "definition": "using the Internet or digital devices to repeatedly follow, threaten, or harass someone",
+    "variations": [
+      "cyberstalking"
+    ],
+    "emoji": "👀📱",
+    "id": "gl161"
+  },
+  "dashboard": {
+    "word": "dashboard",
+    "definition": "the main screen of an app or platform where tools and information are organized",
+    "variations": [
+      "dashboard",
+      "dashboards"
+    ],
+    "emoji": "📊🖥️",
+    "id": "gl162"
+  },
+  "data": {
+    "word": "data",
+    "definition": "Information that is stored, sent, or processed by a computer.",
+    "variations": [
+      "data"
+    ],
+    "emoji": "🗂️💾",
+    "id": "gl163"
+  },
+  "data breach": {
+    "word": "data breach",
+    "definition": "an incident where private or sensitive information is stolen or exposed",
+    "variations": [
+      "data breach",
+      "data breaches"
+    ],
+    "emoji": "📂🚨",
+    "id": "gl164"
+  },
+  "data loss": {
+    "word": "data loss",
+    "definition": "a situation where important computer information is missing, deleted, or destroyed.",
+    "variations": [
+      "data loss"
+    ],
+    "emoji": "💾❌",
+    "id": "gl165"
+  },
+  "data privacy": {
+    "word": "data privacy",
+    "definition": "the protection of personal information so it is used safely and not shared wrongly",
+    "variations": [
+      "data privacy",
+      "privacy"
+    ],
+    "emoji": "🔒🧾",
+    "id": "gl166"
+  },
+  "data protection": {
+    "word": "data protection",
+    "definition": "keeping personal or important information safe from misuse, loss, or unauthorized access",
+    "variations": [
+      "personal data protection",
+      "data protection laws"
+    ],
+    "emoji": "🛡️📂",
+    "id": "gl167"
+  },
+  "data scientist": {
+    "word": "data scientist",
+    "definition": "A person who uses data and programming to study information and support decisions.",
+    "variations": [
+      "data scientist",
+      "data scientists"
+    ],
+    "emoji": "📊🧠",
+    "id": "gl168"
+  },
+  "data structure": {
+    "word": "data structure",
+    "definition": "A way of organising and storing data so it can be used efficiently.",
+    "variations": [
+      "data structure",
+      "data structures"
+    ],
+    "emoji": "🗂️📊",
+    "id": "gl169"
+  },
+  "data type": {
+    "word": "data type",
+    "definition": "A category that tells what kind of value a variable can store, such as a number, text, or true/false value.",
+    "variations": [
+      "data type",
+      "data types"
+    ],
+    "emoji": "🏷️📦",
+    "id": "gl170"
+  },
+  "database": {
+    "word": "database",
+    "definition": "an organised collection of data stored so it can be easily accessed and managed.",
+    "variations": [
+      "database",
+      "databases"
+    ],
+    "emoji": "🗄️📊",
+    "id": "gl171"
+  },
+  "debugger": {
+    "word": "debugger",
+    "definition": "a tool that helps find and fix mistakes in a program by checking the code step by step.",
+    "variations": [
+      "debugger",
+      "debuggers",
+      "debug",
+      "debugged",
+      "debugging"
+    ],
+    "emoji": "🐞🛠️",
+    "id": "gl172"
+  },
+  "debugging": {
+    "word": "debugging",
+    "definition": "the process of finding and fixing errors in a program",
+    "variations": [
+      "debug",
+      "debugs",
+      "debugged"
+    ],
+    "emoji": "🐞🛠️",
+    "id": "gl173"
+  },
+  "decision node": {
+    "word": "decision node",
+    "definition": "A point in a flowchart where a condition is checked to decide which path to follow.",
+    "variations": [
+      "decision node",
+      "decision nodes"
+    ],
+    "emoji": "💎🤔",
+    "id": "gl174"
+  },
+  "decision-making": {
+    "word": "decision-making",
+    "definition": "The part of programming where the computer chooses what to do based on conditions.",
+    "variations": [
+      "decision-making"
+    ],
+    "emoji": "🤔↔️",
+    "id": "gl175"
+  },
+  "declare": {
+    "word": "declare",
+    "definition": "To create a variable or function and state its type or name.",
+    "variations": [
+      "declare",
+      "declares",
+      "declared",
+      "declaring",
+      "declaration"
+    ],
+    "emoji": "📝🆕",
+    "id": "gl176"
+  },
+  "decrement": {
+    "word": "decrement",
+    "definition": "A decrease by one in a variable’s value.",
+    "variations": [
+      "decrement",
+      "decrements",
+      "decremented",
+      "decrementing"
+    ],
+    "emoji": "⬇️1️⃣",
+    "id": "gl177"
+  },
+  "decrement operator": {
+    "word": "decrement operator",
+    "definition": "an operator that decreases a variable’s value by 1",
+    "variations": [
+      "decrement operator",
+      "decrement operators"
+    ],
+    "emoji": "⬇️➖",
+    "id": "gl178"
+  },
+  "def": {
+    "word": "def",
+    "definition": "Def is the Python keyword used to create or define a function.",
+    "variations": [
+      "def"
+    ],
+    "emoji": "🛠️📘",
+    "id": "gl179"
+  },
+  "delay": {
+    "word": "delay",
+    "definition": "a planned pause before something happens in a program",
+    "variations": [
+      "delay",
+      "delays",
+      "delayed"
+    ],
+    "emoji": "⏱️⏳",
+    "id": "gl180"
+  },
+  "Denial of Service": {
+    "word": "Denial of Service",
+    "definition": "a cyberattack that floods a service with too much traffic so it becomes slow or unavailable",
+    "variations": [
+      "DoS",
+      "Denial of Service attack",
+      "DoS attacks"
+    ],
+    "emoji": "🚫🌐",
+    "id": "gl181"
+  },
+  "denial-of-service": {
+    "word": "denial-of-service",
+    "definition": "an attack that makes a website or system unavailable by flooding it with too many requests.",
+    "variations": [
+      "denial-of-service",
+      "DoS",
+      "DoS attack",
+      "denial of service"
+    ],
+    "emoji": "🌐🚫",
+    "id": "gl182"
+  },
+  "dependency": {
+    "word": "dependency",
+    "definition": "a file, library, or part of a program that another part needs in order to work",
+    "variations": [
+      "dependencies"
+    ],
+    "emoji": "🔗📦",
+    "id": "gl183"
+  },
+  "Desktop": {
+    "word": "Desktop",
+    "definition": "the main screen area on a computer where files, folders, and icons can appear",
+    "variations": [
+      "Desktop",
+      "desktops"
+    ],
+    "emoji": "🖥️📂",
+    "id": "gl184"
+  },
+  "development environment": {
+    "word": "development environment",
+    "definition": "the set of software tools used to write, test, and run programs",
+    "variations": [
+      "development environments"
+    ],
+    "emoji": "💻🛠️",
+    "id": "gl185"
+  },
+  "device": {
+    "word": "device",
+    "definition": "A piece of electronic equipment such as a computer, tablet, or phone.",
+    "variations": [
+      "device",
+      "devices"
+    ],
+    "emoji": "📱💻",
+    "id": "gl186"
+  },
+  "digital citizenship": {
+    "word": "digital citizenship",
+    "definition": "the responsible and respectful way of using digital technology and the Internet",
+    "variations": [
+      "digital citizen",
+      "digital citizens"
+    ],
+    "emoji": "💻🌐",
+    "id": "gl187"
+  },
+  "digital footprint": {
+    "word": "digital footprint",
+    "definition": "the record of a person’s actions and information left behind when using the Internet",
+    "variations": [
+      "digital footprint",
+      "digital footprints"
+    ],
+    "emoji": "👣💻",
+    "id": "gl188"
+  },
+  "digital signature": {
+    "word": "digital signature",
+    "definition": "a digital mark that shows a message or document is real and has not been changed",
+    "variations": [
+      "digital signature",
+      "digital signatures"
+    ],
+    "emoji": "✍️📄🔐",
+    "id": "gl189"
+  },
+  "directory": {
+    "word": "directory",
+    "definition": "a folder on a computer where files are stored",
+    "variations": [
+      "directory",
+      "directories"
+    ],
+    "emoji": "📁🗂️",
+    "id": "gl190"
+  },
+  "distributed denial of service": {
+    "word": "distributed denial of service",
+    "definition": "a large attack where many devices send fake traffic to make a service stop working.",
+    "variations": [
+      "distributed denial of service",
+      "DDoS",
+      "DDoS attacks"
+    ],
+    "emoji": "🌐💥",
+    "id": "gl191"
+  },
+  "divisible": {
+    "word": "divisible",
+    "definition": "Able to be divided by a number without leaving a remainder.",
+    "variations": [
+      "divisible"
+    ],
+    "emoji": "➗✅",
+    "id": "gl192"
+  },
+  "division": {
+    "word": "division",
+    "definition": "A math operation that splits one number by another.",
+    "variations": [
+      "division",
+      "divide"
+    ],
+    "emoji": "➗",
+    "id": "gl193"
+  },
+  "division by zero": {
+    "word": "division by zero",
+    "definition": "An error caused when a program tries to divide a number by zero.",
+    "variations": [
+      "division by zero"
+    ],
+    "emoji": "➗0️⃣",
+    "id": "gl194"
+  },
+  "DNS server": {
+    "word": "DNS server",
+    "definition": "a server that looks up domain names and returns their matching IP addresses",
+    "variations": [
+      "DNS server",
+      "DNS servers"
+    ],
+    "emoji": "🖥️🌐",
+    "id": "gl195"
+  },
+  "DNS spoofing": {
+    "word": "DNS spoofing",
+    "definition": "an attack that sends users to a fake website instead of the real one.",
+    "variations": [
+      "DNS spoofing"
+    ],
+    "emoji": "🌐🎭",
+    "id": "gl196"
+  },
+  "do...while loop": {
+    "word": "do...while loop",
+    "definition": "a loop that runs the code first and checks the condition after that, so it runs at least once",
+    "variations": [
+      "do...while loop",
+      "do while loop",
+      "do...while loops"
+    ],
+    "emoji": "▶️🔁",
+    "id": "gl197"
+  },
+  "document format": {
+    "word": "document format",
+    "definition": "the type or structure of a digital file, such as PDF or DOCX",
+    "variations": [
+      "document format",
+      "document formats"
+    ],
+    "emoji": "📁📝",
+    "id": "gl198"
+  },
+  "documentation": {
+    "word": "documentation",
+    "definition": "written records that explain what was found or done during a process",
+    "variations": [
+      "documentation",
+      "document"
+    ],
+    "emoji": "📝📂",
+    "id": "gl199"
+  },
+  "domain name": {
+    "word": "domain name",
+    "definition": "the easy-to-read name of a website, used instead of a number address",
+    "variations": [
+      "domain name",
+      "domain names"
+    ],
+    "emoji": "🔤🌍",
+    "id": "gl200"
+  },
+  "Domain Name System": {
+    "word": "Domain Name System",
+    "definition": "a system that changes easy-to-read website names into computer addresses called IP addresses",
+    "variations": [
+      "Domain Name System",
+      "DNS"
+    ],
+    "emoji": "🔤🌐",
+    "id": "gl201"
+  },
+  "Domain-Specific Language (DSL)": {
+    "word": "Domain-Specific Language (DSL)",
+    "definition": "a language designed for one particular kind of task instead of general-purpose programming.",
+    "variations": [
+      "Domain-Specific Language",
+      "Domain-Specific Languages",
+      "DSL",
+      "DSLs"
+    ],
+    "emoji": "🎯🛠️",
+    "id": "gl202"
+  },
+  "double": {
+    "word": "double",
+    "definition": "A data type used for decimal numbers with more precision than float.",
+    "variations": [
+      "double",
+      "doubles"
+    ],
+    "emoji": "🔢📏",
+    "id": "gl203"
+  },
+  "download": {
+    "word": "download",
+    "definition": "to copy a file or information from the Internet onto your device",
+    "variations": [
+      "download",
+      "downloads",
+      "downloaded",
+      "downloading"
+    ],
+    "emoji": "⬇️💾",
+    "id": "gl204"
+  },
+  "draft": {
+    "word": "draft",
+    "definition": "an email message that has been written but not yet sent",
+    "variations": [
+      "draft",
+      "drafts"
+    ],
+    "emoji": "📝📧",
+    "id": "gl205"
+  },
+  "drive-by attack": {
+    "word": "drive-by attack",
+    "definition": "an attack where harmful software gets onto a device just by visiting an unsafe website",
+    "variations": [
+      "drive-by attack",
+      "drive-by attacks"
+    ],
+    "emoji": "🌐🦠",
+    "id": "gl206"
+  },
+  "dumpster diving": {
+    "word": "dumpster diving",
+    "definition": "searching through thrown-away items to find private or useful information.",
+    "variations": [
+      "dumpster diving"
+    ],
+    "emoji": "🗑️🕵️",
+    "id": "gl207"
+  },
+  "duplicate": {
+    "word": "duplicate",
+    "definition": "to make an exact copy of something",
+    "variations": [
+      "duplicate",
+      "duplicates",
+      "duplicated",
+      "duplicating"
+    ],
+    "emoji": "📄📄",
+    "id": "gl208"
+  },
+  "e-learning": {
+    "word": "e-learning",
+    "definition": "learning through electronic devices and digital technologies, often using the Internet",
+    "variations": [
+      "e-learning"
+    ],
+    "emoji": "💻📚",
+    "id": "gl209"
+  },
+  "electronic banking": {
+    "word": "electronic banking",
+    "definition": "using the Internet or mobile apps to manage bank services such as checking balances or sending money",
+    "variations": [
+      "electronic banking",
+      "e-banking"
+    ],
+    "emoji": "🏦📱",
+    "id": "gl210"
+  },
+  "electronic commerce": {
+    "word": "electronic commerce",
+    "definition": "buying and selling goods or services using the Internet",
+    "variations": [
+      "electronic commerce",
+      "e-commerce"
+    ],
+    "emoji": "🛒💳",
+    "id": "gl211"
+  },
+  "element": {
+    "word": "element",
+    "definition": "A single value stored in an array.",
+    "variations": [
+      "element",
+      "elements"
+    ],
+    "emoji": "🧩🔹",
+    "id": "gl212"
+  },
+  "elif": {
+    "word": "elif",
+    "definition": "A Python keyword used to check another condition if the first one is false.",
+    "variations": [
+      "elif"
+    ],
+    "emoji": "🔁❓",
+    "id": "gl213"
+  },
+  "else-if ladder": {
+    "word": "else-if ladder",
+    "definition": "a way of checking several conditions one after another until one of them is true",
+    "variations": [
+      "else-if ladder",
+      "else if ladder",
+      "else-if ladders"
+    ],
+    "emoji": "🪜🔀",
+    "id": "gl214"
+  },
+  "email": {
+    "word": "email",
+    "definition": "electronic mail; messages sent and received using the Internet",
+    "variations": [
+      "email",
+      "emails",
+      "e-mail",
+      "e-mails"
+    ],
+    "emoji": "📧✉️",
+    "id": "gl215"
+  },
+  "email account": {
+    "word": "email account",
+    "definition": "a personal or organisational account used to send, receive, and store email messages",
+    "variations": [
+      "email account",
+      "email accounts"
+    ],
+    "emoji": "📧👤",
+    "id": "gl216"
+  },
+  "email address": {
+    "word": "email address",
+    "definition": "the unique address used to send email to a person or organisation",
+    "variations": [
+      "email address",
+      "email addresses"
+    ],
+    "emoji": "📮✉️",
+    "id": "gl217"
+  },
+  "embedded system": {
+    "word": "embedded system",
+    "definition": "A computer system built into a device to perform a specific job.",
+    "variations": [
+      "embedded system",
+      "embedded systems"
+    ],
+    "emoji": "📟🔧",
+    "id": "gl218"
+  },
+  "encapsulation": {
+    "word": "encapsulation",
+    "definition": "the OOP idea of keeping data and the methods that use it together in one unit.",
+    "variations": [
+      "encapsulation"
+    ],
+    "emoji": "📦🔒",
+    "id": "gl219"
+  },
+  "encode": {
+    "word": "encode",
+    "definition": "to change information into a form that a computer can store or use",
+    "variations": [
+      "encodes",
+      "encoding",
+      "encoded"
+    ],
+    "emoji": "🔐💻",
+    "id": "gl220"
+  },
+  "encrypt": {
+    "word": "encrypt",
+    "definition": "to change data into a secret code so unauthorized people cannot read it.",
+    "variations": [
+      "encrypt",
+      "encrypts",
+      "encrypted",
+      "encrypting",
+      "encryption"
+    ],
+    "emoji": "🔐📄",
+    "id": "gl221"
+  },
+  "encryption": {
+    "word": "encryption",
+    "definition": "the process of protecting information by changing it into a secret code",
+    "variations": [
+      "encryption",
+      "encrypt",
+      "encrypted"
+    ],
+    "emoji": "🔒🛡️",
+    "id": "gl222"
+  },
+  "environment variable": {
+    "word": "environment variable",
+    "definition": "a system setting that stores important information used by programs",
+    "variations": [
+      "environment variables"
+    ],
+    "emoji": "⚙️📁",
+    "id": "gl223"
+  },
+  "error": {
+    "word": "error",
+    "definition": "A mistake in a program that causes it to work incorrectly or stop working.",
+    "variations": [
+      "error",
+      "errors"
+    ],
+    "emoji": "❌⚠️",
+    "id": "gl224"
+  },
+  "error detection": {
+    "word": "error detection",
+    "definition": "the process of finding mistakes in code.",
+    "variations": [
+      "error detection"
+    ],
+    "emoji": "🚨🔍",
+    "id": "gl225"
+  },
+  "error handling": {
+    "word": "error handling",
+    "definition": "The way a program detects, manages, and responds to mistakes or unexpected problems.",
+    "variations": [
+      "error handling"
+    ],
+    "emoji": "⚠️🛠️",
+    "id": "gl226"
+  },
+  "escape sequence": {
+    "word": "escape sequence",
+    "definition": "a special code in a string that tells the computer to do formatting, like starting a new line",
+    "variations": [
+      "escape sequences"
+    ],
+    "emoji": "↩️🔤",
+    "id": "gl227"
+  },
+  "espionage": {
+    "word": "espionage",
+    "definition": "secretly gathering private or protected information, often for political or business advantage",
+    "variations": [
+      "espionage",
+      "corporate espionage",
+      "cyber espionage"
+    ],
+    "emoji": "🕵️📄",
+    "id": "gl228"
+  },
+  "Ethernet": {
+    "word": "Ethernet",
+    "definition": "a wired way of connecting computers and devices to a network",
+    "variations": [
+      "Ethernet"
+    ],
+    "emoji": "🔌🌐",
+    "id": "gl229"
+  },
+  "ethical": {
+    "word": "ethical",
+    "definition": "about choosing what is right, fair, and responsible",
+    "variations": [
+      "ethics",
+      "ethically",
+      "Internet ethics",
+      "cyber ethics"
+    ],
+    "emoji": "⚖️👍",
+    "id": "gl230"
+  },
+  "ethics": {
+    "word": "ethics",
+    "definition": "Ethics are moral rules or principles that help people know what is right and wrong.",
+    "variations": [
+      "ethic",
+      "ethics",
+      "ethical"
+    ],
+    "emoji": "⚖️🤝",
+    "id": "gl231"
+  },
+  "event": {
+    "word": "event",
+    "definition": "an action that starts something in a program, like clicking the green flag or pressing a key",
+    "variations": [
+      "event",
+      "events"
+    ],
+    "emoji": "🚩⚡",
+    "id": "gl232"
+  },
+  "event block": {
+    "word": "event block",
+    "definition": "A Scratch block that starts an action when something happens, like clicking the green flag.",
+    "variations": [
+      "event block",
+      "event blocks"
+    ],
+    "emoji": "🚩⚡",
+    "id": "gl233"
+  },
+  "event-driven programming": {
+    "word": "event-driven programming",
+    "definition": "A style of programming where the program responds to actions such as mouse clicks or keyboard input.",
+    "variations": [
+      "event-driven programming"
+    ],
+    "emoji": "🖱️⌨️⚡",
+    "id": "gl234"
+  },
+  "evidence": {
+    "word": "evidence",
+    "definition": "information or proof used to show that something happened",
+    "variations": [
+      "evidence"
+    ],
+    "emoji": "📁🔍",
+    "id": "gl235"
+  },
+  "exception": {
+    "word": "exception",
+    "definition": "A problem that happens while a program is running and needs special handling.",
+    "variations": [
+      "exception",
+      "exceptions"
+    ],
+    "emoji": "⚠️🚨",
+    "id": "gl236"
+  },
+  "exception handling": {
+    "word": "exception handling",
+    "definition": "A way of managing exceptions so a program can respond safely instead of crashing.",
+    "variations": [
+      "exception handling"
+    ],
+    "emoji": "🛡️⚙️",
+    "id": "gl237"
+  },
+  "executable file": {
+    "word": "executable file",
+    "definition": "a file that contains a program ready to be run by the computer",
+    "variations": [
+      "executable files",
+      "executable"
+    ],
+    "emoji": "▶️💻",
+    "id": "gl238"
+  },
+  "executable program": {
+    "word": "executable program",
+    "definition": "a program file that is ready to run on a computer",
+    "variations": [
+      "executable program",
+      "executable programs"
+    ],
+    "emoji": "▶️💻",
+    "id": "gl239"
+  },
+  "execute": {
+    "word": "execute",
+    "definition": "to run a program or instruction on a computer",
+    "variations": [
+      "executes",
+      "executed",
+      "execution"
+    ],
+    "emoji": "▶️💻",
+    "id": "gl240"
+  },
+  "execution": {
+    "word": "execution",
+    "definition": "The process of running a program.",
+    "variations": [
+      "execution",
+      "execute",
+      "executes",
+      "executing",
+      "executed"
+    ],
+    "emoji": "▶️⚙️",
+    "id": "gl241"
+  },
+  "expert system": {
+    "word": "expert system",
+    "definition": "A computer system designed to make decisions or solve problems using stored expert knowledge and rules.",
+    "variations": [
+      "expert system",
+      "expert systems"
+    ],
+    "emoji": "🤖📚",
+    "id": "gl242"
+  },
+  "explicit": {
+    "word": "explicit",
+    "definition": "Done clearly and directly by the programmer.",
+    "variations": [
+      "explicit",
+      "explicitly"
+    ],
+    "emoji": "✍️🎯",
+    "id": "gl243"
+  },
+  "exponentiation": {
+    "word": "exponentiation",
+    "definition": "A math operation that raises a number to a power.",
+    "variations": [
+      "exponentiation"
+    ],
+    "emoji": "🔢⬆️",
+    "id": "gl244"
+  },
+  "expression": {
+    "word": "expression",
+    "definition": "A combination of values and operators that the computer calculates to produce a result.",
+    "variations": [
+      "expression",
+      "expressions"
+    ],
+    "emoji": "🧮✏️",
+    "id": "gl245"
+  },
+  "extension": {
+    "word": "extension",
+    "definition": "the ending part of a filename that shows the file type, such as .c",
+    "variations": [
+      "extensions",
+      "file extension",
+      "file extensions"
+    ],
+    "emoji": "📎📁",
+    "id": "gl246"
+  },
+  "f-string": {
+    "word": "f-string",
+    "definition": "An f-string is a way to create a string in Python by putting variables or calculations inside curly brackets.",
+    "variations": [
+      "f-string",
+      "f-strings"
+    ],
+    "emoji": "🧵🔤",
+    "id": "gl247"
+  },
+  "fair use": {
+    "word": "fair use",
+    "definition": "limited legal use of someone else’s work without asking permission in certain situations, such as teaching or review",
+    "variations": [],
+    "emoji": "📖⚖️",
+    "id": "gl248"
+  },
+  "fclose": {
+    "word": "fclose",
+    "definition": "A C function used to close a file.",
+    "variations": [
+      "fclose",
+      "fclose()"
+    ],
+    "emoji": "🔒⚙️",
+    "id": "gl249"
+  },
+  "feedback": {
+    "word": "feedback",
+    "definition": "a message or response that tells the user how well they did",
+    "variations": [
+      "feedback"
+    ],
+    "emoji": "💬👍",
+    "id": "gl250"
+  },
+  "fibre optic": {
+    "word": "fibre optic",
+    "definition": "a technology that uses light through thin glass or plastic strands to send Internet data very quickly",
+    "variations": [
+      "fibre optic",
+      "fibre optics",
+      "fiber optic",
+      "fiber optics"
+    ],
+    "emoji": "💡🔌",
+    "id": "gl251"
+  },
+  "file": {
+    "word": "file",
+    "definition": "A named collection of data stored on a computer.",
+    "variations": [
+      "file",
+      "files"
+    ],
+    "emoji": "📄📁",
+    "id": "gl252"
+  },
+  "file extension": {
+    "word": "file extension",
+    "definition": "the letters at the end of a file name that show its type, such as .pdf or .jpg",
+    "variations": [
+      "file extension",
+      "file extensions"
+    ],
+    "emoji": "📁🔤",
+    "id": "gl253"
+  },
+  "file handling": {
+    "word": "file handling",
+    "definition": "Working with files in a program, such as opening, reading, writing, or saving them.",
+    "variations": [
+      "file handling"
+    ],
+    "emoji": "📁💾",
+    "id": "gl254"
+  },
+  "filename": {
+    "word": "filename",
+    "definition": "the name given to a file so it can be stored and found",
+    "variations": [
+      "filename",
+      "filenames",
+      "file name",
+      "file names"
+    ],
+    "emoji": "📄🏷️",
+    "id": "gl255"
+  },
+  "financial fraud": {
+    "word": "financial fraud",
+    "definition": "dishonest actions used to steal money or gain money illegally",
+    "variations": [
+      "financial fraud",
+      "fraud"
+    ],
+    "emoji": "💸❌",
+    "id": "gl256"
+  },
+  "find": {
+    "word": "find",
+    "definition": "Find is a string method that gives the position of a part of a string.",
+    "variations": [
+      "find",
+      "finds",
+      "found"
+    ],
+    "emoji": "🔍📍",
+    "id": "gl257"
+  },
+  "fire-resistant": {
+    "word": "fire-resistant",
+    "definition": "able to resist burning or damage from fire.",
+    "variations": [
+      "fire-resistant"
+    ],
+    "emoji": "🔥🧯",
+    "id": "gl258"
+  },
+  "firewall": {
+    "word": "firewall",
+    "definition": "a security system that controls what data can enter or leave a computer or network.",
+    "variations": [
+      "firewall",
+      "firewalls"
+    ],
+    "emoji": "🔥🛡️",
+    "id": "gl259"
+  },
+  "float": {
+    "word": "float",
+    "definition": "A data type used for decimal numbers with single precision.",
+    "variations": [
+      "float",
+      "floats"
+    ],
+    "emoji": "🔢💧",
+    "id": "gl260"
+  },
+  "float()": {
+    "word": "float()",
+    "definition": "A Python function that changes a value into a float.",
+    "variations": [
+      "float()",
+      "float"
+    ],
+    "emoji": "🔢➗",
+    "id": "gl261"
+  },
+  "floating-point": {
+    "word": "floating-point",
+    "definition": "A data type used for numbers that have decimal points.",
+    "variations": [
+      "floating-point",
+      "float",
+      "floating-point numbers"
+    ],
+    "emoji": "🔢📏",
+    "id": "gl262"
+  },
+  "floor division": {
+    "word": "floor division",
+    "definition": "Division that removes the decimal part and keeps the whole number result.",
+    "variations": [
+      "floor division"
+    ],
+    "emoji": "➗⬇️",
+    "id": "gl263"
+  },
+  "flowchart": {
+    "word": "flowchart",
+    "definition": "A diagram that uses symbols and arrows to show the steps of a process or algorithm.",
+    "variations": [
+      "flowchart",
+      "flowcharts"
+    ],
+    "emoji": "🔀📊",
+    "id": "gl264"
+  },
+  "fopen": {
+    "word": "fopen",
+    "definition": "A C function used to open a file.",
+    "variations": [
+      "fopen",
+      "fopen()"
+    ],
+    "emoji": "📂⚙️",
+    "id": "gl265"
+  },
+  "for loop": {
+    "word": "for loop",
+    "definition": "A loop that repeats code a specific number of times.",
+    "variations": [
+      "for loop",
+      "for loops"
+    ],
+    "emoji": "🔢🔁",
+    "id": "gl266"
+  },
+  "forever": {
+    "word": "forever",
+    "definition": "a loop block that keeps running without stopping until the program ends",
+    "variations": [
+      "forever"
+    ],
+    "emoji": "♾️🔄",
+    "id": "gl267"
+  },
+  "formal parameter": {
+    "word": "formal parameter",
+    "definition": "A variable inside a function that holds the value passed into the function.",
+    "variations": [
+      "formal parameter",
+      "formal parameters"
+    ],
+    "emoji": "📥🧾",
+    "id": "gl268"
+  },
+  "formatted text": {
+    "word": "formatted text",
+    "definition": "Text arranged using a special pattern or style, often with format symbols in programming.",
+    "variations": [
+      "formatted text"
+    ],
+    "emoji": "📝⚙️",
+    "id": "gl269"
+  },
+  "formatting": {
+    "word": "formatting",
+    "definition": "The way code is arranged so it is neat, clear, and easy to read.",
+    "variations": [
+      "formatting",
+      "format"
+    ],
+    "emoji": "📝📐",
+    "id": "gl270"
+  },
+  "forum": {
+    "word": "forum",
+    "definition": "An online place where people discuss topics, ask questions, and share ideas.",
+    "variations": [
+      "forum",
+      "forums"
+    ],
+    "emoji": "💬🌐",
+    "id": "gl271"
+  },
+  "forward": {
+    "word": "forward",
+    "definition": "to send a received email to another person",
+    "variations": [
+      "forward",
+      "forwards",
+      "forwarded",
+      "forwarding"
+    ],
+    "emoji": "➡️✉️",
+    "id": "gl272"
+  },
+  "fprintf": {
+    "word": "fprintf",
+    "definition": "A C function used to write formatted text to a file.",
+    "variations": [
+      "fprintf",
+      "fprintf()"
+    ],
+    "emoji": "✍️📄",
+    "id": "gl273"
+  },
+  "framework": {
+    "word": "framework",
+    "definition": "a structured set of tools and rules used to build programs more easily.",
+    "variations": [
+      "framework",
+      "frameworks"
+    ],
+    "emoji": "🏗️🧩",
+    "id": "gl274"
+  },
+  "fraud": {
+    "word": "fraud",
+    "definition": "dishonest action used to trick someone, often to get money or information",
+    "variations": [],
+    "emoji": "💸🎭",
+    "id": "gl275"
+  },
+  "fscanf": {
+    "word": "fscanf",
+    "definition": "A C function used to read formatted data from a file.",
+    "variations": [
+      "fscanf",
+      "fscanf()"
+    ],
+    "emoji": "📖📄",
+    "id": "gl276"
+  },
+  "function": {
+    "word": "function",
+    "definition": "a named set of instructions used to do a task, often reused in a program",
+    "variations": [
+      "function",
+      "functions"
+    ],
+    "emoji": "🧩🔧",
+    "id": "gl277"
+  },
+  "function body": {
+    "word": "function body",
+    "definition": "the set of statements inside a function that shows what the function does",
+    "variations": [
+      "function body",
+      "function bodies"
+    ],
+    "emoji": "📦💻",
+    "id": "gl278"
+  },
+  "function declaration": {
+    "word": "function declaration",
+    "definition": "a statement that tells the compiler a function’s name, return type, and parameters before it is used",
+    "variations": [
+      "function declaration",
+      "function declarations"
+    ],
+    "emoji": "📢📝",
+    "id": "gl279"
+  },
+  "function definition": {
+    "word": "function definition",
+    "definition": "the full code of a function, including its header and body",
+    "variations": [
+      "function definition",
+      "function definitions"
+    ],
+    "emoji": "📘⚙️",
+    "id": "gl280"
+  },
+  "functional language": {
+    "word": "functional language",
+    "definition": "a programming language that focuses on using functions to calculate results without changing data step by step.",
+    "variations": [
+      "functional language",
+      "functional languages"
+    ],
+    "emoji": "🔢🧠",
+    "id": "gl281"
+  },
+  "functional programming": {
+    "word": "functional programming",
+    "definition": "A programming style that focuses on using functions to process data and solve problems.",
+    "variations": [
+      "functional programming"
+    ],
+    "emoji": "🔁🧠",
+    "id": "gl282"
+  },
+  "functionality testing": {
+    "word": "functionality testing",
+    "definition": "Testing that checks whether the features of a program work as expected.",
+    "variations": [
+      "functionality testing"
+    ],
+    "emoji": "⚙️🧪",
+    "id": "gl283"
+  },
+  "game developer": {
+    "word": "game developer",
+    "definition": "A person who designs and programs video games.",
+    "variations": [
+      "game developer",
+      "game developers"
+    ],
+    "emoji": "🎮💻",
+    "id": "gl284"
+  },
+  "Git": {
+    "word": "Git",
+    "definition": "A tool used to track changes in code and manage different versions of a project.",
+    "variations": [
+      "Git"
+    ],
+    "emoji": "🌿💻",
+    "id": "gl285"
+  },
+  "global variable": {
+    "word": "global variable",
+    "definition": "A variable declared outside functions that can be used in many parts of the program.",
+    "variations": [
+      "global variable",
+      "global variables"
+    ],
+    "emoji": "🌍📦",
+    "id": "gl286"
+  },
+  "grade": {
+    "word": "grade",
+    "definition": "A letter or score given to show performance in a test or assignment.",
+    "variations": [
+      "grade",
+      "grades"
+    ],
+    "emoji": "📘🅰️",
+    "id": "gl287"
+  },
+  "graph": {
+    "word": "graph",
+    "definition": "A data structure made of points and connections used to show relationships between items.",
+    "variations": [
+      "graph",
+      "graphs"
+    ],
+    "emoji": "📍🔗",
+    "id": "gl288"
+  },
+  "graphical user interface": {
+    "word": "graphical user interface",
+    "definition": "A visual way for users to interact with a computer using windows, icons, buttons, and menus.",
+    "variations": [
+      "graphical user interface",
+      "graphical user interfaces",
+      "GUI",
+      "GUIs"
+    ],
+    "emoji": "🖱️🪟",
+    "id": "gl289"
+  },
+  "grey hat hacker": {
+    "word": "grey hat hacker",
+    "definition": "a hacker who may break into systems without permission but usually not to cause harm",
+    "variations": [
+      "grey hat hacker",
+      "grey hat hackers"
+    ],
+    "emoji": "🩶💻",
+    "id": "gl290"
+  },
+  "hackers": {
+    "word": "hackers",
+    "definition": "people who break into computer systems or data without permission",
+    "variations": [
+      "hacker",
+      "hackers"
+    ],
+    "emoji": "🕵️💻",
+    "id": "gl291"
+  },
+  "hacking": {
+    "word": "hacking",
+    "definition": "getting into a computer system or network without permission",
+    "variations": [
+      "hack",
+      "hacker",
+      "hackers"
+    ],
+    "emoji": "💻🕵️",
+    "id": "gl292"
+  },
+  "hardware": {
+    "word": "hardware",
+    "definition": "The physical parts of a computer that you can touch, such as the keyboard, screen, and hard drive.",
+    "variations": [
+      "hardware"
+    ],
+    "emoji": "💻🖥️",
+    "id": "gl293"
+  },
+  "high-level language": {
+    "word": "high-level language",
+    "definition": "a programming language that is closer to human language and easier to read, write, and understand.",
+    "variations": [
+      "high-level language",
+      "high-level languages"
+    ],
+    "emoji": "🧠💬",
+    "id": "gl294"
+  },
+  "history": {
+    "word": "history",
+    "definition": "the list of web pages that a browser remembers you have visited",
+    "variations": [
+      "history",
+      "browser history"
+    ],
+    "emoji": "🕘📄",
+    "id": "gl295"
+  },
+  "home page": {
+    "word": "home page",
+    "definition": "the first or main page of a website",
+    "variations": [
+      "home page",
+      "home pages",
+      "homepage",
+      "homepages"
+    ],
+    "emoji": "🏠🌐",
+    "id": "gl296"
+  },
+  "HTML": {
+    "word": "HTML",
+    "definition": "a markup language used to create and organize content on web pages",
+    "variations": [
+      "HTML"
+    ],
+    "emoji": "🧾💻",
+    "id": "gl297"
+  },
+  "https": {
+    "word": "https",
+    "definition": "a secure form of a website address that helps protect information sent between you and the website",
+    "variations": [
+      "https"
+    ],
+    "emoji": "🔒🌐",
+    "id": "gl298"
+  },
+  "hub": {
+    "word": "hub",
+    "definition": "A hub is a simple network device that connects several computers or devices so they can share data.",
+    "variations": [
+      "hub",
+      "hubs"
+    ],
+    "emoji": "🔗🖧",
+    "id": "gl299"
+  },
+  "humidity": {
+    "word": "humidity",
+    "definition": "the amount of water vapor in the air.",
+    "variations": [
+      "humidity"
+    ],
+    "emoji": "💧🌫️",
+    "id": "gl300"
+  },
+  "hyperlink": {
+    "word": "hyperlink",
+    "definition": "a clickable link that takes you to another page, file, or online resource",
+    "variations": [
+      "hyperlink",
+      "hyperlinks",
+      "link",
+      "links"
+    ],
+    "emoji": "🔗👆",
+    "id": "gl301"
+  },
+  "hypertext": {
+    "word": "hypertext",
+    "definition": "text that contains links to other documents or resources",
+    "variations": [
+      "hypertext"
+    ],
+    "emoji": "📄🔗",
+    "id": "gl302"
+  },
+  "Hypertext Markup Language": {
+    "word": "Hypertext Markup Language",
+    "definition": "the language used to create and organise web pages",
+    "variations": [
+      "Hypertext Markup Language",
+      "HTML"
+    ],
+    "emoji": "🌍🧱",
+    "id": "gl303"
+  },
+  "Hypertext Transfer Protocol": {
+    "word": "Hypertext Transfer Protocol",
+    "definition": "the set of rules used to send and receive web pages and other information on the Web",
+    "variations": [
+      "Hypertext Transfer Protocol",
+      "HTTP"
+    ],
+    "emoji": "🌐↔️",
+    "id": "gl304"
+  },
+  "IDE": {
+    "word": "IDE",
+    "definition": "A software application that gives programmers tools for writing, running, and debugging code in one place.",
+    "variations": [
+      "IDE",
+      "IDEs",
+      "Integrated Development Environment",
+      "Integrated Development Environments"
+    ],
+    "emoji": "💻🧰",
+    "id": "gl305"
+  },
+  "identifier": {
+    "word": "identifier",
+    "definition": "A name used for things in code, such as variables and functions.",
+    "variations": [
+      "identifier",
+      "identifiers"
+    ],
+    "emoji": "🏷️🔤",
+    "id": "gl306"
+  },
+  "identity theft": {
+    "word": "identity theft",
+    "definition": "the crime of using someone else’s personal information to pretend to be them",
+    "variations": [],
+    "emoji": "🪪🚨",
+    "id": "gl307"
+  },
+  "IDLE": {
+    "word": "IDLE",
+    "definition": "Python’s basic built-in program for writing and running Python code.",
+    "variations": [
+      "IDLE"
+    ],
+    "emoji": "🐍💻",
+    "id": "gl308"
+  },
+  "if statement": {
+    "word": "if statement",
+    "definition": "a statement that runs a block of code only when a condition is true",
+    "variations": [
+      "if statement",
+      "if statements"
+    ],
+    "emoji": "if🤔",
+    "id": "gl309"
+  },
+  "if-elif-else statement": {
+    "word": "if-elif-else statement",
+    "definition": "A programming statement used to check several conditions one after another and choose the matching action.",
+    "variations": [
+      "if-elif-else statements"
+    ],
+    "emoji": "🧩🔀",
+    "id": "gl310"
+  },
+  "if-else statement": {
+    "word": "if-else statement",
+    "definition": "A programming instruction that does one action if a condition is true and another action if it is false.",
+    "variations": [
+      "if-else statement",
+      "if-else statements",
+      "if else statement"
+    ],
+    "emoji": "🤔↔️",
+    "id": "gl311"
+  },
+  "implicit": {
+    "word": "implicit",
+    "definition": "Happening automatically without being written directly by the programmer.",
+    "variations": [
+      "implicit",
+      "implicitly"
+    ],
+    "emoji": "🤖🔄",
+    "id": "gl312"
+  },
+  "import": {
+    "word": "import",
+    "definition": "to bring code from a module into your program so you can use it",
+    "variations": [
+      "imports",
+      "importing",
+      "imported"
+    ],
+    "emoji": "⬇️📦",
+    "id": "gl313"
+  },
+  "import error": {
+    "word": "import error",
+    "definition": "An error that happens when a needed module or library cannot be found.",
+    "variations": [
+      "import error",
+      "import errors"
+    ],
+    "emoji": "📥❌",
+    "id": "gl314"
+  },
+  "inbox": {
+    "word": "inbox",
+    "definition": "the folder where received email messages appear",
+    "variations": [
+      "inbox",
+      "inboxes"
+    ],
+    "emoji": "📥✉️",
+    "id": "gl315"
+  },
+  "incident response": {
+    "word": "incident response",
+    "definition": "the actions taken to deal with and recover from a cybersecurity problem or attack",
+    "variations": [],
+    "emoji": "🚨🛠️",
+    "id": "gl316"
+  },
+  "incident response plan": {
+    "word": "incident response plan",
+    "definition": "a prepared set of steps for dealing with a cyberattack or security problem",
+    "variations": [
+      "incident response plan",
+      "incident response plans"
+    ],
+    "emoji": "📋🚨",
+    "id": "gl317"
+  },
+  "incognito mode": {
+    "word": "incognito mode",
+    "definition": "a private browsing mode that does not save browsing history on the device after the session ends",
+    "variations": [
+      "incognito mode",
+      "private mode",
+      "private browsing",
+      "private browsing mode"
+    ],
+    "emoji": "🕵️🔒",
+    "id": "gl318"
+  },
+  "increment": {
+    "word": "increment",
+    "definition": "An increase by one in a variable’s value.",
+    "variations": [
+      "increment",
+      "increments",
+      "incremented",
+      "incrementing"
+    ],
+    "emoji": "⬆️1️⃣",
+    "id": "gl319"
+  },
+  "increment operator": {
+    "word": "increment operator",
+    "definition": "an operator that increases a variable’s value by 1",
+    "variations": [
+      "increment operator",
+      "increment operators"
+    ],
+    "emoji": "⬆️➕",
+    "id": "gl320"
+  },
+  "indentation": {
+    "word": "indentation",
+    "definition": "Spaces at the beginning of a line of code used to make the code easier to read and sometimes to show program structure.",
+    "variations": [
+      "indentation",
+      "indentations",
+      "indent"
+    ],
+    "emoji": "↪️🧩",
+    "id": "gl321"
+  },
+  "index": {
+    "word": "index",
+    "definition": "The position number of an item in a list or array.",
+    "variations": [
+      "index",
+      "indexes",
+      "indices"
+    ],
+    "emoji": "🔢📍",
+    "id": "gl322"
+  },
+  "indexing": {
+    "word": "indexing",
+    "definition": "the process of arranging and storing collected information so it can be searched easily",
+    "variations": [
+      "index",
+      "indexes",
+      "indexed",
+      "indexing"
+    ],
+    "emoji": "🗂️📚",
+    "id": "gl323"
+  },
+  "infected": {
+    "word": "infected",
+    "definition": "affected by harmful software such as a virus or malware",
+    "variations": [
+      "infect"
+    ],
+    "emoji": "🦠💻",
+    "id": "gl324"
+  },
+  "inference engine": {
+    "word": "inference engine",
+    "definition": "A system that uses rules and logic to make decisions or find answers automatically.",
+    "variations": [
+      "inference engine",
+      "inference engines"
+    ],
+    "emoji": "🧠⚙️",
+    "id": "gl325"
+  },
+  "information overload": {
+    "word": "information overload",
+    "definition": "a situation where someone gets too much information and finds it hard to think clearly or decide",
+    "variations": [
+      "information overload"
+    ],
+    "emoji": "🧠📚",
+    "id": "gl326"
+  },
+  "infrastructure": {
+    "word": "infrastructure",
+    "definition": "the basic systems and equipment needed for technology services to work",
+    "variations": [],
+    "emoji": "🏗️💻",
+    "id": "gl327"
+  },
+  "infringement": {
+    "word": "infringement",
+    "definition": "the act of breaking a law or right, especially by using something without permission",
+    "variations": [
+      "copyright infringement",
+      "infringe",
+      "infringed"
+    ],
+    "emoji": "🚫©️",
+    "id": "gl328"
+  },
+  "inheritance": {
+    "word": "inheritance",
+    "definition": "the OOP idea where one class can take features from another class.",
+    "variations": [
+      "inheritance"
+    ],
+    "emoji": "👪🧬",
+    "id": "gl329"
+  },
+  "initialisation": {
+    "word": "initialisation",
+    "definition": "the step of giving a variable its starting value before a loop or program process begins",
+    "variations": [
+      "initialisation",
+      "initialize",
+      "initialise",
+      "initialized",
+      "initialised",
+      "initialising",
+      "initializing"
+    ],
+    "emoji": "🚦🛠️",
+    "id": "gl330"
+  },
+  "initialize": {
+    "word": "initialize",
+    "definition": "To give a variable its first value when it is created.",
+    "variations": [
+      "initialize",
+      "initializes",
+      "initialized",
+      "initializing",
+      "initialisation",
+      "initialization"
+    ],
+    "emoji": "🎬📦",
+    "id": "gl331"
+  },
+  "input": {
+    "word": "input",
+    "definition": "Data given to a program so it can do a task.",
+    "variations": [
+      "input",
+      "inputs"
+    ],
+    "emoji": "⬇️⌨️",
+    "id": "gl332"
+  },
+  "input device": {
+    "word": "input device",
+    "definition": "a device used to enter data or commands into a computer, such as a keyboard or mouse",
+    "variations": [
+      "input devices"
+    ],
+    "emoji": "⌨️🖱️",
+    "id": "gl333"
+  },
+  "input()": {
+    "word": "input()",
+    "definition": "A Python function that asks the user to type something and sends that value to the program.",
+    "variations": [
+      "input()",
+      "input"
+    ],
+    "emoji": "⌨️📥",
+    "id": "gl334"
+  },
+  "insert": {
+    "word": "insert",
+    "definition": "Insert is a list method that adds an item at a specific position in a list.",
+    "variations": [
+      "insert",
+      "inserts",
+      "inserted"
+    ],
+    "emoji": "📌➕",
+    "id": "gl335"
+  },
+  "insider threat": {
+    "word": "insider threat",
+    "definition": "a security risk caused by someone inside an organization, such as an employee.",
+    "variations": [
+      "insider threat",
+      "insider threats"
+    ],
+    "emoji": "🏢⚠️",
+    "id": "gl336"
+  },
+  "installation": {
+    "word": "installation",
+    "definition": "the process of putting software onto a computer so it can be used",
+    "variations": [
+      "install",
+      "installs",
+      "installed",
+      "installing"
+    ],
+    "emoji": "⬇️💿",
+    "id": "gl337"
+  },
+  "installer": {
+    "word": "installer",
+    "definition": "a program that helps put software onto a computer",
+    "variations": [
+      "installer",
+      "installers"
+    ],
+    "emoji": "⬇️💿",
+    "id": "gl338"
+  },
+  "instruction": {
+    "word": "instruction",
+    "definition": "a command in a program that tells the computer what to do",
+    "variations": [
+      "instruction",
+      "instructions"
+    ],
+    "emoji": "📜➡️",
+    "id": "gl339"
+  },
+  "int": {
+    "word": "int",
+    "definition": "A data type used for whole numbers.",
+    "variations": [
+      "int",
+      "ints"
+    ],
+    "emoji": "🔢",
+    "id": "gl340"
+  },
+  "int()": {
+    "word": "int()",
+    "definition": "A Python function that changes a value into an integer.",
+    "variations": [
+      "int()",
+      "int"
+    ],
+    "emoji": "🔢1️⃣",
+    "id": "gl341"
+  },
+  "integer": {
+    "word": "integer",
+    "definition": "A whole number without a decimal point.",
+    "variations": [
+      "integer",
+      "integers"
+    ],
+    "emoji": "🔢",
+    "id": "gl342"
+  },
+  "Integrated Development Environment": {
+    "word": "Integrated Development Environment",
+    "definition": "A software application that helps you write, run, and debug programs in one place.",
+    "variations": [
+      "Integrated Development Environment",
+      "Integrated Development Environments",
+      "IDE",
+      "IDEs"
+    ],
+    "emoji": "💻🛠️",
+    "id": "gl343"
+  },
+  "Integrated Development Environment (IDE)": {
+    "word": "Integrated Development Environment (IDE)",
+    "definition": "a software tool that brings together everything a programmer needs to write, test, and fix code in one place.",
+    "variations": [
+      "Integrated Development Environment",
+      "Integrated Development Environments",
+      "IDE",
+      "IDEs"
+    ],
+    "emoji": "💻🧰",
+    "id": "gl344"
+  },
+  "integrity": {
+    "word": "integrity",
+    "definition": "making sure data stays correct, complete, and unchanged unless properly updated",
+    "variations": [],
+    "emoji": "✅📊",
+    "id": "gl345"
+  },
+  "intellectual property": {
+    "word": "intellectual property",
+    "definition": "ideas, writing, art, music, or inventions that belong legally to the person who created them",
+    "variations": [
+      "intellectual property"
+    ],
+    "emoji": "🧠©️",
+    "id": "gl346"
+  },
+  "intellectual property rights": {
+    "word": "intellectual property rights",
+    "definition": "legal rights that protect creations such as writing, music, inventions, and digital content",
+    "variations": [
+      "intellectual property right",
+      "intellectual property rights"
+    ],
+    "emoji": "©️🧠",
+    "id": "gl347"
+  },
+  "interactive quiz": {
+    "word": "interactive quiz",
+    "definition": "a digital quiz that lets learners answer and get responses or feedback",
+    "variations": [
+      "interactive quiz",
+      "interactive quizzes"
+    ],
+    "emoji": "❓🖱️",
+    "id": "gl348"
+  },
+  "intercept": {
+    "word": "intercept",
+    "definition": "to stop or catch information before it reaches the right person",
+    "variations": [
+      "intercept",
+      "intercepts",
+      "intercepted",
+      "intercepting"
+    ],
+    "emoji": "✋📨",
+    "id": "gl349"
+  },
+  "interface": {
+    "word": "interface",
+    "definition": "the visible part of a program that a user interacts with",
+    "variations": [
+      "interface",
+      "interfaces"
+    ],
+    "emoji": "🖥️👆",
+    "id": "gl350"
+  },
+  "Internet": {
+    "word": "Internet",
+    "definition": "A worldwide system that connects computers and other devices so they can share information and services.",
+    "variations": [
+      "internet",
+      "the Internet"
+    ],
+    "emoji": "🌐💻",
+    "id": "gl351"
+  },
+  "Internet addiction": {
+    "word": "Internet addiction",
+    "definition": "spending too much time online in a way that negatively affects daily life",
+    "variations": [
+      "Internet addiction"
+    ],
+    "emoji": "📱⏳",
+    "id": "gl352"
+  },
+  "Internet connectivity": {
+    "word": "Internet connectivity",
+    "definition": "the way a device connects to the Internet",
+    "variations": [
+      "Internet connectivity"
+    ],
+    "emoji": "🌐📶",
+    "id": "gl353"
+  },
+  "Internet of Things": {
+    "word": "Internet of Things",
+    "definition": "a system of smart devices connected to the Internet that collect and share data",
+    "variations": [
+      "Internet of Things",
+      "IoT"
+    ],
+    "emoji": "🌐📡🏠",
+    "id": "gl354"
+  },
+  "Internet Service Provider": {
+    "word": "Internet Service Provider",
+    "definition": "a company that gives people or organizations access to the Internet",
+    "variations": [
+      "Internet Service Provider",
+      "Internet Service Providers",
+      "ISP",
+      "ISPs"
+    ],
+    "emoji": "🏢🌐",
+    "id": "gl355"
+  },
+  "interpreted language": {
+    "word": "interpreted language",
+    "definition": "A programming language that runs code line by line using an interpreter.",
+    "variations": [
+      "interpreted language",
+      "interpreted languages"
+    ],
+    "emoji": "🗣️💻",
+    "id": "gl356"
+  },
+  "interpreter": {
+    "word": "interpreter",
+    "definition": "a program that translates and runs code one line at a time",
+    "variations": [
+      "interpreters",
+      "interpret"
+    ],
+    "emoji": "📖🔁",
+    "id": "gl357"
+  },
+  "intrusion": {
+    "word": "intrusion",
+    "definition": "Intrusion means entering or acting inside a computer system or network without permission.",
+    "variations": [
+      "intrusion",
+      "intrusions"
+    ],
+    "emoji": "🚪⚠️",
+    "id": "gl358"
+  },
+  "intrusion detection system": {
+    "word": "intrusion detection system",
+    "definition": "An intrusion detection system is a security tool that watches network or system activity and warns about suspicious actions.",
+    "variations": [
+      "intrusion detection system",
+      "intrusion detection systems",
+      "IDS"
+    ],
+    "emoji": "🚨🛡️👀",
+    "id": "gl359"
+  },
+  "invalid": {
+    "word": "invalid",
+    "definition": "not correct or not accepted by the program",
+    "variations": [],
+    "emoji": "❌",
+    "id": "gl360"
+  },
+  "inventory control": {
+    "word": "inventory control",
+    "definition": "managing the amount of goods or materials a business has",
+    "variations": [
+      "inventory control"
+    ],
+    "emoji": "📦📋",
+    "id": "gl361"
+  },
+  "IoT": {
+    "word": "IoT",
+    "definition": "short for Internet of Things; everyday devices connected to the Internet so they can send and receive data",
+    "variations": [
+      "IoT",
+      "Internet of Things"
+    ],
+    "emoji": "📡🏠🔌",
+    "id": "gl362"
+  },
+  "IP address": {
+    "word": "IP address",
+    "definition": "a number that identifies a device or website on a network",
+    "variations": [
+      "IP address",
+      "IP addresses"
+    ],
+    "emoji": "🔢🖧",
+    "id": "gl363"
+  },
+  "iteration": {
+    "word": "iteration",
+    "definition": "The repetition of a set of instructions in a program.",
+    "variations": [
+      "iteration",
+      "iterations"
+    ],
+    "emoji": "🔁💻",
+    "id": "gl364"
+  },
+  "iterative flow": {
+    "word": "iterative flow",
+    "definition": "a program flow that repeats actions multiple times",
+    "variations": [
+      "iterative flow"
+    ],
+    "emoji": "🔁♻️",
+    "id": "gl365"
+  },
+  "key error": {
+    "word": "key error",
+    "definition": "An error that happens when a program looks for a key that is not in a dictionary or map.",
+    "variations": [
+      "key error",
+      "key errors"
+    ],
+    "emoji": "🗝️🚫",
+    "id": "gl366"
+  },
+  "keylogging": {
+    "word": "keylogging",
+    "definition": "the recording of what a person types on a keyboard, often done secretly to steal information.",
+    "variations": [
+      "keylogging",
+      "keylogging devices",
+      "keylogger",
+      "keyloggers"
+    ],
+    "emoji": "⌨️🕵️",
+    "id": "gl367"
+  },
+  "keystroke": {
+    "word": "keystroke",
+    "definition": "one press of a key on a keyboard.",
+    "variations": [
+      "keystroke",
+      "keystrokes"
+    ],
+    "emoji": "⌨️",
+    "id": "gl368"
+  },
+  "keyword": {
+    "word": "keyword",
+    "definition": "an important word or short phrase used to search for information online",
+    "variations": [
+      "keyword",
+      "keywords"
+    ],
+    "emoji": "🔤🔍",
+    "id": "gl369"
+  },
+  "law enforcement": {
+    "word": "law enforcement",
+    "definition": "the police and other authorities that work to stop crime and enforce laws",
+    "variations": [],
+    "emoji": "👮⚖️",
+    "id": "gl370"
+  },
+  "least privilege": {
+    "word": "least privilege",
+    "definition": "a security rule that gives users only the access they need to do their work",
+    "variations": [],
+    "emoji": "🔒👤",
+    "id": "gl371"
+  },
+  "LED screen": {
+    "word": "LED screen",
+    "definition": "a small light display that shows letters, numbers, or symbols on a device like the micro:bit",
+    "variations": [
+      "LED screen",
+      "LED screens",
+      "LED display",
+      "LED displays"
+    ],
+    "emoji": "🔆📟",
+    "id": "gl372"
+  },
+  "length": {
+    "word": "length",
+    "definition": "The number of characters in a string or the size of something.",
+    "variations": [
+      "length",
+      "lengths"
+    ],
+    "emoji": "📏🔢",
+    "id": "gl373"
+  },
+  "library": {
+    "word": "library",
+    "definition": "a collection of pre-written code that programmers can use to do common tasks.",
+    "variations": [
+      "library",
+      "libraries"
+    ],
+    "emoji": "📚💻",
+    "id": "gl374"
+  },
+  "lifetime": {
+    "word": "lifetime",
+    "definition": "The time during which a variable exists in memory while a program runs.",
+    "variations": [
+      "lifetime",
+      "lifetimes"
+    ],
+    "emoji": "⏳📦",
+    "id": "gl375"
+  },
+  "linked list": {
+    "word": "linked list",
+    "definition": "A data structure made of connected items, where each item points to the next one.",
+    "variations": [
+      "linked list",
+      "linked lists"
+    ],
+    "emoji": "🔗📋",
+    "id": "gl376"
+  },
+  "list": {
+    "word": "list",
+    "definition": "in Python, a collection of items stored in one variable",
+    "variations": [
+      "list",
+      "lists"
+    ],
+    "emoji": "📝📦",
+    "id": "gl377"
+  },
+  "local variable": {
+    "word": "local variable",
+    "definition": "A variable declared inside a function or block that can only be used there.",
+    "variations": [
+      "local variable",
+      "local variables"
+    ],
+    "emoji": "🏠📦",
+    "id": "gl378"
+  },
+  "logic error": {
+    "word": "logic error",
+    "definition": "A mistake in the program’s thinking that gives the wrong result even though the program runs.",
+    "variations": [
+      "logic error",
+      "logic errors"
+    ],
+    "emoji": "🧠❓",
+    "id": "gl379"
+  },
+  "logic-based language": {
+    "word": "logic-based language",
+    "definition": "a programming language that uses rules and logical relationships to solve problems.",
+    "variations": [
+      "logic-based language",
+      "logic-based languages"
+    ],
+    "emoji": "🧠📐",
+    "id": "gl380"
+  },
+  "logical error": {
+    "word": "logical error",
+    "definition": "An error where the program runs but gives the wrong result.",
+    "variations": [
+      "logical error",
+      "logical errors"
+    ],
+    "emoji": "🤔⚠️",
+    "id": "gl381"
+  },
+  "logical operator": {
+    "word": "logical operator",
+    "definition": "a word like AND, OR, or NOT used to make a search more exact",
+    "variations": [
+      "logical operator",
+      "logical operators"
+    ],
+    "emoji": "➕🔍",
+    "id": "gl382"
+  },
+  "login credentials": {
+    "word": "login credentials",
+    "definition": "the information used to sign in to an account, such as a username and password",
+    "variations": [],
+    "emoji": "👤🔑",
+    "id": "gl383"
+  },
+  "looks block": {
+    "word": "looks block",
+    "definition": "A Scratch block that changes how a sprite appears.",
+    "variations": [
+      "looks block",
+      "looks blocks"
+    ],
+    "emoji": "👀🎨",
+    "id": "gl384"
+  },
+  "loop": {
+    "word": "loop",
+    "definition": "A control structure that repeats a block of code until a condition changes or a limit is reached.",
+    "variations": [
+      "loop",
+      "loops"
+    ],
+    "emoji": "🔁♻️",
+    "id": "gl385"
+  },
+  "low-level language": {
+    "word": "low-level language",
+    "definition": "a programming language that is close to machine language and closely related to computer hardware.",
+    "variations": [
+      "low-level language",
+      "low-level languages"
+    ],
+    "emoji": "🔧🤖",
+    "id": "gl386"
+  },
+  "lowercase": {
+    "word": "lowercase",
+    "definition": "Lowercase means small letters such as a, b, and c.",
+    "variations": [
+      "lowercase"
+    ],
+    "emoji": "🔡",
+    "id": "gl387"
+  },
+  "MAC address": {
+    "word": "MAC address",
+    "definition": "a unique identification number given to a network device or adapter",
+    "variations": [
+      "MAC address",
+      "MAC addresses"
+    ],
+    "emoji": "🆔💻",
+    "id": "gl388"
+  },
+  "machine code": {
+    "word": "machine code",
+    "definition": "the basic binary instructions that a computer can directly understand and run.",
+    "variations": [
+      "machine code"
+    ],
+    "emoji": "🤖0️⃣1️⃣",
+    "id": "gl389"
+  },
+  "machine language": {
+    "word": "machine language",
+    "definition": "the lowest-level computer language made of 0s and 1s that the computer can understand directly",
+    "variations": [
+      "machine code"
+    ],
+    "emoji": "0️⃣1️⃣💻",
+    "id": "gl390"
+  },
+  "machine-dependent": {
+    "word": "machine-dependent",
+    "definition": "designed to work only on a specific type of computer or processor.",
+    "variations": [
+      "machine-dependent"
+    ],
+    "emoji": "🔒🖥️",
+    "id": "gl391"
+  },
+  "main": {
+    "word": "main",
+    "definition": "The main function in a C program where execution usually begins.",
+    "variations": [
+      "main",
+      "main()"
+    ],
+    "emoji": "🚩💻",
+    "id": "gl392"
+  },
+  "main function": {
+    "word": "main function",
+    "definition": "the function where a C program starts running",
+    "variations": [
+      "main()",
+      "main"
+    ],
+    "emoji": "🚀💻",
+    "id": "gl393"
+  },
+  "maintenance": {
+    "word": "maintenance",
+    "definition": "Updating and improving software after it has been released.",
+    "variations": [
+      "maintenance",
+      "maintain"
+    ],
+    "emoji": "🛠️🔄",
+    "id": "gl394"
+  },
+  "malicious": {
+    "word": "malicious",
+    "definition": "intended to cause harm or damage.",
+    "variations": [
+      "malicious"
+    ],
+    "emoji": "😈⚠️",
+    "id": "gl395"
+  },
+  "malware": {
+    "word": "malware",
+    "definition": "harmful software made to damage, steal, or disrupt data or devices",
+    "variations": [],
+    "emoji": "🦠💻",
+    "id": "gl396"
+  },
+  "man-in-the-middle": {
+    "word": "man-in-the-middle",
+    "definition": "an attack where someone secretly reads or changes communication between two people or systems.",
+    "variations": [
+      "man-in-the-middle",
+      "MitM",
+      "Man-in-the-Middle"
+    ],
+    "emoji": "👂💬",
+    "id": "gl397"
+  },
+  "man-in-the-middle attack": {
+    "word": "man-in-the-middle attack",
+    "definition": "an attack where someone secretly intercepts communication between two parties",
+    "variations": [
+      "man-in-the-middle attack",
+      "MitM attack",
+      "MitM attacks",
+      "man-in-the-middle attacks"
+    ],
+    "emoji": "👂📡",
+    "id": "gl398"
+  },
+  "markup language": {
+    "word": "markup language",
+    "definition": "a language used to show the structure and content of a document",
+    "variations": [
+      "markup language",
+      "markup languages"
+    ],
+    "emoji": "📝🧩",
+    "id": "gl399"
+  },
+  "master password": {
+    "word": "master password",
+    "definition": "the main password used to open a password manager",
+    "variations": [
+      "master password",
+      "master passwords"
+    ],
+    "emoji": "👑🔑",
+    "id": "gl400"
+  },
+  "math": {
+    "word": "math",
+    "definition": "a Python module that provides tools for mathematical calculations",
+    "variations": [],
+    "emoji": "➗📐",
+    "id": "gl401"
+  },
+  "matrix": {
+    "word": "matrix",
+    "definition": "A table of values arranged in rows and columns.",
+    "variations": [
+      "matrix",
+      "matrices"
+    ],
+    "emoji": "📊🔲",
+    "id": "gl402"
+  },
+  "memory": {
+    "word": "memory",
+    "definition": "The part of a computer that stores data and instructions.",
+    "variations": [
+      "memory"
+    ],
+    "emoji": "🧠💾",
+    "id": "gl403"
+  },
+  "memory error": {
+    "word": "memory error",
+    "definition": "An error that happens when the computer does not have enough memory for the program.",
+    "variations": [
+      "memory error",
+      "memory errors"
+    ],
+    "emoji": "🧠⚠️",
+    "id": "gl404"
+  },
+  "memory management": {
+    "word": "memory management",
+    "definition": "The process of controlling how computer memory is used, stored, and freed.",
+    "variations": [
+      "memory management"
+    ],
+    "emoji": "🧠💾",
+    "id": "gl405"
+  },
+  "method": {
+    "word": "method",
+    "definition": "A method is a built-in action that can be used with an object like a string or list.",
+    "variations": [
+      "method",
+      "methods"
+    ],
+    "emoji": "🧰⚙️",
+    "id": "gl406"
+  },
+  "micro:bit": {
+    "word": "micro:bit",
+    "definition": "a small programmable device used for learning coding and electronics",
+    "variations": [
+      "micro:bit",
+      "micro:bits"
+    ],
+    "emoji": "🟦💡",
+    "id": "gl407"
+  },
+  "misinformation": {
+    "word": "misinformation",
+    "definition": "false or wrong information that is shared, often causing people to believe untrue things",
+    "variations": [
+      "misinformation"
+    ],
+    "emoji": "⚠️📰",
+    "id": "gl408"
+  },
+  "mnemonic": {
+    "word": "mnemonic",
+    "definition": "A short symbolic code or abbreviation used in assembly language to represent an instruction.",
+    "variations": [
+      "mnemonic",
+      "mnemonics"
+    ],
+    "emoji": "🔤🛠️",
+    "id": "gl409"
+  },
+  "mobile app": {
+    "word": "mobile app",
+    "definition": "A software application made to run on a smartphone or tablet.",
+    "variations": [
+      "mobile app",
+      "mobile apps",
+      "app",
+      "apps"
+    ],
+    "emoji": "📱📲",
+    "id": "gl410"
+  },
+  "mobile data": {
+    "word": "mobile data",
+    "definition": "Internet access provided through a mobile phone network like 3G, 4G, or 5G",
+    "variations": [
+      "mobile data"
+    ],
+    "emoji": "📱📶",
+    "id": "gl411"
+  },
+  "mobile money": {
+    "word": "mobile money",
+    "definition": "a service that lets people send, receive, and store money using a mobile phone",
+    "variations": [
+      "mobile money"
+    ],
+    "emoji": "📱💵",
+    "id": "gl412"
+  },
+  "mode": {
+    "word": "mode",
+    "definition": "A setting that tells how a file will be used, such as read, write, or append.",
+    "variations": [
+      "mode",
+      "modes"
+    ],
+    "emoji": "⚙️📁",
+    "id": "gl413"
+  },
+  "modem": {
+    "word": "modem",
+    "definition": "a device that helps a computer or network connect to the Internet",
+    "variations": [
+      "modem",
+      "modems"
+    ],
+    "emoji": "📡🔌",
+    "id": "gl414"
+  },
+  "modular programming": {
+    "word": "modular programming",
+    "definition": "a way of writing programs in small, separate parts that are easier to reuse and manage",
+    "variations": [
+      "modular programming"
+    ],
+    "emoji": "🧩🏗️",
+    "id": "gl415"
+  },
+  "module": {
+    "word": "module",
+    "definition": "a file of ready-made Python code that contains useful tools such as functions",
+    "variations": [
+      "modules"
+    ],
+    "emoji": "🧰🐍",
+    "id": "gl416"
+  },
+  "modulus": {
+    "word": "modulus",
+    "definition": "An operation that gives the remainder after division.",
+    "variations": [
+      "modulus"
+    ],
+    "emoji": "➗ leftovers",
+    "id": "gl417"
+  },
+  "modulus operator": {
+    "word": "modulus operator",
+    "definition": "An operator (%) that gives the remainder after division.",
+    "variations": [
+      "modulus operator",
+      "modulus operators"
+    ],
+    "emoji": "➗📐",
+    "id": "gl418"
+  },
+  "Moodle": {
+    "word": "Moodle",
+    "definition": "Moodle is a free online learning platform used to create and manage digital classes, notes, quizzes, and assignments.",
+    "variations": [
+      "Moodle"
+    ],
+    "emoji": "📚💻",
+    "id": "gl419"
+  },
+  "motion": {
+    "word": "motion",
+    "definition": "movement of a sprite, such as moving steps or changing direction",
+    "variations": [
+      "motion",
+      "motions",
+      "move",
+      "moving",
+      "movement"
+    ],
+    "emoji": "➡️🏃",
+    "id": "gl420"
+  },
+  "motion block": {
+    "word": "motion block",
+    "definition": "A Scratch block that makes a sprite move or turn.",
+    "variations": [
+      "motion block",
+      "motion blocks"
+    ],
+    "emoji": "➡️🏃",
+    "id": "gl421"
+  },
+  "multi-factor authentication": {
+    "word": "multi-factor authentication",
+    "definition": "a security method that requires more than one way to prove your identity before access is allowed",
+    "variations": [
+      "multi-factor authentication",
+      "MFA"
+    ],
+    "emoji": "🔐✅",
+    "id": "gl422"
+  },
+  "multi-line comment": {
+    "word": "multi-line comment",
+    "definition": "A comment that can cover more than one line.",
+    "variations": [
+      "multi-line comment",
+      "multi-line comments"
+    ],
+    "emoji": "📝📄",
+    "id": "gl423"
+  },
+  "multiplication": {
+    "word": "multiplication",
+    "definition": "A math operation used to find the result of repeated addition.",
+    "variations": [
+      "multiplication",
+      "multiply"
+    ],
+    "emoji": "✖️",
+    "id": "gl424"
+  },
+  "naming convention": {
+    "word": "naming convention",
+    "definition": "A common style for naming things in code so they are easier to read.",
+    "variations": [
+      "naming convention",
+      "naming conventions"
+    ],
+    "emoji": "🏷️📝",
+    "id": "gl425"
+  },
+  "negative indexing": {
+    "word": "negative indexing",
+    "definition": "Negative indexing means using negative numbers like -1 to access items from the end of a string or list.",
+    "variations": [
+      "negative indexing"
+    ],
+    "emoji": "➖🔢",
+    "id": "gl426"
+  },
+  "netiquette": {
+    "word": "netiquette",
+    "definition": "the rules for polite and respectful behavior online",
+    "variations": [
+      "online etiquette"
+    ],
+    "emoji": "💬😊",
+    "id": "gl427"
+  },
+  "network": {
+    "word": "network",
+    "definition": "A group of connected computers or devices that can communicate and share resources.",
+    "variations": [
+      "network",
+      "networks"
+    ],
+    "emoji": "🔗💻",
+    "id": "gl428"
+  },
+  "network adapter": {
+    "word": "network adapter",
+    "definition": "a hardware part in a computer that allows it to connect to a network such as Ethernet or Wi-Fi",
+    "variations": [
+      "network adapter",
+      "network adapters"
+    ],
+    "emoji": "🔌💻",
+    "id": "gl429"
+  },
+  "Network Interface Card": {
+    "word": "Network Interface Card",
+    "definition": "a hardware part that allows a computer to connect to a network",
+    "variations": [
+      "Network Interface Card",
+      "Network Interface Cards",
+      "NIC",
+      "NICs"
+    ],
+    "emoji": "💻🔌",
+    "id": "gl430"
+  },
+  "network security": {
+    "word": "network security",
+    "definition": "protection of computer networks from attacks, misuse, or unauthorized access",
+    "variations": [],
+    "emoji": "🌐🛡️",
+    "id": "gl431"
+  },
+  "network segmentation": {
+    "word": "network segmentation",
+    "definition": "dividing a network into smaller parts to improve security and control",
+    "variations": [
+      "network segmentation"
+    ],
+    "emoji": "🌐✂️",
+    "id": "gl432"
+  },
+  "network traffic": {
+    "word": "network traffic",
+    "definition": "the flow of data moving across a computer network",
+    "variations": [
+      "network traffic"
+    ],
+    "emoji": "🌐↔️",
+    "id": "gl433"
+  },
+  "newline": {
+    "word": "newline",
+    "definition": "a move to the next line when displaying text",
+    "variations": [
+      "new line",
+      "\\n"
+    ],
+    "emoji": "↩️📄",
+    "id": "gl434"
+  },
+  "not": {
+    "word": "not",
+    "definition": "A logical operator that changes a condition to its opposite.",
+    "variations": [
+      "not"
+    ],
+    "emoji": "🙃🚫",
+    "id": "gl435"
+  },
+  "null character": {
+    "word": "null character",
+    "definition": "A special character used in C to mark the end of a string.",
+    "variations": [
+      "null character",
+      "null characters"
+    ],
+    "emoji": "🔚🔤",
+    "id": "gl436"
+  },
+  "null terminator": {
+    "word": "null terminator",
+    "definition": "A special character written as \\0 that marks the end of a string in C.",
+    "variations": [
+      "null terminator",
+      "null terminators"
+    ],
+    "emoji": "🛑🔚",
+    "id": "gl437"
+  },
+  "object": {
+    "word": "object",
+    "definition": "a part of a program that combines data and the actions that can be done with that data.",
+    "variations": [
+      "object",
+      "objects"
+    ],
+    "emoji": "📦🧩",
+    "id": "gl438"
+  },
+  "object code": {
+    "word": "object code",
+    "definition": "machine-readable code produced after source code is translated",
+    "variations": [],
+    "emoji": "🔢💻",
+    "id": "gl439"
+  },
+  "object-oriented programming": {
+    "word": "object-oriented programming",
+    "definition": "A programming style that organises code around objects, which contain data and actions.",
+    "variations": [
+      "object-oriented programming",
+      "OOP"
+    ],
+    "emoji": "🧱💻",
+    "id": "gl440"
+  },
+  "object-oriented programming (OOP)": {
+    "word": "object-oriented programming (OOP)",
+    "definition": "a way of programming that organises code around objects, which contain data and actions.",
+    "variations": [
+      "object-oriented programming",
+      "OOP"
+    ],
+    "emoji": "🧱🧠",
+    "id": "gl441"
+  },
+  "occurrence": {
+    "word": "occurrence",
+    "definition": "an instance of something appearing in a text or program",
+    "variations": [
+      "occurrences"
+    ],
+    "emoji": "🔁",
+    "id": "gl442"
+  },
+  "off-by-one error": {
+    "word": "off-by-one error",
+    "definition": "A mistake where a count or index is one too high or one too low.",
+    "variations": [
+      "off-by-one error",
+      "off-by-one errors"
+    ],
+    "emoji": "1️⃣⚠️",
+    "id": "gl443"
+  },
+  "one-dimensional array": {
+    "word": "one-dimensional array",
+    "definition": "An array that stores values in a single list.",
+    "variations": [
+      "one-dimensional array",
+      "one-dimensional arrays"
+    ],
+    "emoji": "📏📚",
+    "id": "gl444"
+  },
+  "online auction": {
+    "word": "online auction",
+    "definition": "a sale on the Internet where people bid to buy an item",
+    "variations": [
+      "online auction",
+      "online auctions"
+    ],
+    "emoji": "🔨💻",
+    "id": "gl445"
+  },
+  "online code editor": {
+    "word": "online code editor",
+    "definition": "a web-based tool that lets you write and run code in a browser without installing software.",
+    "variations": [
+      "online code editor",
+      "online code editors"
+    ],
+    "emoji": "🌐💻",
+    "id": "gl446"
+  },
+  "online education": {
+    "word": "online education",
+    "definition": "learning that happens through the Internet using digital tools and resources",
+    "variations": [
+      "online education"
+    ],
+    "emoji": "🎓💻",
+    "id": "gl447"
+  },
+  "online forum": {
+    "word": "online forum",
+    "definition": "a website or service where people discuss ideas and share opinions on topics",
+    "variations": [
+      "online forum",
+      "online forums"
+    ],
+    "emoji": "💬🌐",
+    "id": "gl448"
+  },
+  "online learning": {
+    "word": "online learning",
+    "definition": "Learning that takes place using the Internet, often through websites, apps, or virtual classes.",
+    "variations": [
+      "online learning"
+    ],
+    "emoji": "🌐📘🎓",
+    "id": "gl449"
+  },
+  "online marketing": {
+    "word": "online marketing",
+    "definition": "promoting products or services using the Internet",
+    "variations": [
+      "online marketing",
+      "e-marketing"
+    ],
+    "emoji": "📢🌐",
+    "id": "gl450"
+  },
+  "open": {
+    "word": "open",
+    "definition": "To make a file ready for reading or writing.",
+    "variations": [
+      "open",
+      "opens",
+      "opened",
+      "opening"
+    ],
+    "emoji": "📂🔓",
+    "id": "gl451"
+  },
+  "operand": {
+    "word": "operand",
+    "definition": "A value or variable that an operator acts on.",
+    "variations": [
+      "operand",
+      "operands"
+    ],
+    "emoji": "🔢⚙️",
+    "id": "gl452"
+  },
+  "operating system": {
+    "word": "operating system",
+    "definition": "The main software that manages a computer’s hardware and allows other programs to run.",
+    "variations": [
+      "operating system",
+      "operating systems"
+    ],
+    "emoji": "💻🖥️",
+    "id": "gl453"
+  },
+  "operator": {
+    "word": "operator",
+    "definition": "A symbol that tells the computer to perform an action, such as adding or comparing values.",
+    "variations": [
+      "operator",
+      "operators"
+    ],
+    "emoji": "➕⚙️",
+    "id": "gl454"
+  },
+  "operator precedence": {
+    "word": "operator precedence",
+    "definition": "the rule that tells which operator is evaluated first in an expression",
+    "variations": [
+      "operator precedence"
+    ],
+    "emoji": "🥇⚙️",
+    "id": "gl455"
+  },
+  "or": {
+    "word": "or",
+    "definition": "A logical operator that is true when at least one condition is true.",
+    "variations": [
+      "or"
+    ],
+    "emoji": "🔀✅",
+    "id": "gl456"
+  },
+  "organisational email address": {
+    "word": "organisational email address",
+    "definition": "an email address created by an organisation for its staff or official communication",
+    "variations": [
+      "organisational email address",
+      "organisational email addresses"
+    ],
+    "emoji": "🏫📧",
+    "id": "gl457"
+  },
+  "OTP": {
+    "word": "OTP",
+    "definition": "a one-time password or code used once to confirm your identity during login or payment",
+    "variations": [
+      "OTPs"
+    ],
+    "emoji": "🔢📩",
+    "id": "gl458"
+  },
+  "output": {
+    "word": "output",
+    "definition": "the result produced by a computer program.",
+    "variations": [
+      "output",
+      "outputs"
+    ],
+    "emoji": "📤💡",
+    "id": "gl459"
+  },
+  "output device": {
+    "word": "output device",
+    "definition": "a device that shows or gives the result from a computer, such as a monitor or printer",
+    "variations": [
+      "output devices"
+    ],
+    "emoji": "🖥️🖨️",
+    "id": "gl460"
+  },
+  "overwrite": {
+    "word": "overwrite",
+    "definition": "to replace old content with new content",
+    "variations": [
+      "overwrites",
+      "overwriting",
+      "overwritten"
+    ],
+    "emoji": "♻️✍️",
+    "id": "gl461"
+  },
+  "padlock icon": {
+    "word": "padlock icon",
+    "definition": "a small lock symbol shown in a browser to indicate that a website connection is secure",
+    "variations": [
+      "padlock icons"
+    ],
+    "emoji": "🔒🌐",
+    "id": "gl462"
+  },
+  "paragraph": {
+    "word": "paragraph",
+    "definition": "a group of sentences written together about one idea",
+    "variations": [
+      "paragraphs"
+    ],
+    "emoji": "📄",
+    "id": "gl463"
+  },
+  "parameter": {
+    "word": "parameter",
+    "definition": "A variable listed in a function definition that receives a value when the function is called.",
+    "variations": [
+      "parameter",
+      "parameters"
+    ],
+    "emoji": "📥🧩",
+    "id": "gl464"
+  },
+  "password": {
+    "word": "password",
+    "definition": "a secret word or set of characters used to enter an account or device safely",
+    "variations": [
+      "password",
+      "passwords"
+    ],
+    "emoji": "🔑🔐",
+    "id": "gl465"
+  },
+  "password attack": {
+    "word": "password attack",
+    "definition": "an attempt to guess, steal, or break a password to enter an account.",
+    "variations": [
+      "password attack",
+      "password attacks"
+    ],
+    "emoji": "🔑⚠️",
+    "id": "gl466"
+  },
+  "password manager": {
+    "word": "password manager",
+    "definition": "a tool that safely stores, creates, and helps fill in your passwords",
+    "variations": [
+      "password manager",
+      "password managers"
+    ],
+    "emoji": "🗂️🔒🔑",
+    "id": "gl467"
+  },
+  "patch": {
+    "word": "patch",
+    "definition": "a software fix that corrects problems or security weaknesses",
+    "variations": [
+      "patches",
+      "patching"
+    ],
+    "emoji": "🩹💻",
+    "id": "gl468"
+  },
+  "patching": {
+    "word": "patching",
+    "definition": "Patching is updating software to fix errors, improve performance, or close security weaknesses.",
+    "variations": [
+      "patching",
+      "patch",
+      "patches",
+      "patched"
+    ],
+    "emoji": "🩹🔧💻",
+    "id": "gl469"
+  },
+  "path": {
+    "word": "path",
+    "definition": "a system setting that tells the computer where to find program files",
+    "variations": [
+      "PATH",
+      "paths"
+    ],
+    "emoji": "🛣️📂",
+    "id": "gl470"
+  },
+  "pathname": {
+    "word": "pathname",
+    "definition": "the part of a URL that shows the folder or location of a file on a server",
+    "variations": [
+      "pathname",
+      "pathnames"
+    ],
+    "emoji": "📁➡️",
+    "id": "gl471"
+  },
+  "PDLC": {
+    "word": "PDLC",
+    "definition": "Short for Program Development Life Cycle, the steps used to plan, create, test, and maintain a program.",
+    "variations": [
+      "PDLC",
+      "Program Development Life Cycle"
+    ],
+    "emoji": "📘🔄",
+    "id": "gl472"
+  },
+  "perfective maintenance": {
+    "word": "perfective maintenance",
+    "definition": "Maintenance that improves software performance or adds better features.",
+    "variations": [
+      "perfective maintenance"
+    ],
+    "emoji": "✨📈",
+    "id": "gl473"
+  },
+  "performance testing": {
+    "word": "performance testing",
+    "definition": "Testing that checks how well a program works under different levels of work or pressure.",
+    "variations": [
+      "performance testing"
+    ],
+    "emoji": "⚡📈",
+    "id": "gl474"
+  },
+  "permanent storage": {
+    "word": "permanent storage",
+    "definition": "Saving data so it stays available even after the program stops.",
+    "variations": [
+      "permanent storage"
+    ],
+    "emoji": "💾🗂️",
+    "id": "gl475"
+  },
+  "personal data": {
+    "word": "personal data",
+    "definition": "information about a person, such as name, phone number, email, or address",
+    "variations": [
+      "data",
+      "personal information"
+    ],
+    "emoji": "📄🪪",
+    "id": "gl476"
+  },
+  "phishing": {
+    "word": "phishing",
+    "definition": "a type of online scam that tries to trick people into giving passwords or personal information",
+    "variations": [
+      "phishing"
+    ],
+    "emoji": "🎣🔐",
+    "id": "gl477"
+  },
+  "pi": {
+    "word": "pi",
+    "definition": "a mathematical value used especially when working with circles",
+    "variations": [],
+    "emoji": "π⭕",
+    "id": "gl478"
+  },
+  "ping": {
+    "word": "ping",
+    "definition": "a network command used to test whether a website or device can be reached and to show its IP address",
+    "variations": [
+      "ping",
+      "pings",
+      "pinged",
+      "pinging"
+    ],
+    "emoji": "📡✅",
+    "id": "gl479"
+  },
+  "piracy": {
+    "word": "piracy",
+    "definition": "the illegal copying or downloading of digital content like music, films, or software",
+    "variations": [
+      "pirated",
+      "pirating"
+    ],
+    "emoji": "🏴‍☠️💿",
+    "id": "gl480"
+  },
+  "pixel": {
+    "word": "pixel",
+    "definition": "a tiny dot that helps make up a digital image on a screen",
+    "variations": [
+      "pixels"
+    ],
+    "emoji": "🟦🖼️",
+    "id": "gl481"
+  },
+  "plagiarism": {
+    "word": "plagiarism",
+    "definition": "copying someone else’s work or ideas and pretending they are your own",
+    "variations": [
+      "plagiarism"
+    ],
+    "emoji": "📄❌",
+    "id": "gl482"
+  },
+  "platform": {
+    "word": "platform",
+    "definition": "a digital system or service used to run programs or work online",
+    "variations": [
+      "platforms"
+    ],
+    "emoji": "💻🌐",
+    "id": "gl483"
+  },
+  "pointer": {
+    "word": "pointer",
+    "definition": "A variable that stores the memory address of another variable.",
+    "variations": [
+      "pointer",
+      "pointers"
+    ],
+    "emoji": "👉📍",
+    "id": "gl484"
+  },
+  "polymorphism": {
+    "word": "polymorphism",
+    "definition": "the OOP idea that the same action or method name can work in different ways in different objects.",
+    "variations": [
+      "polymorphism"
+    ],
+    "emoji": "🔀🧩",
+    "id": "gl485"
+  },
+  "pop": {
+    "word": "pop",
+    "definition": "Pop is a list method that removes an item, usually by position, and also gives that item back.",
+    "variations": [
+      "pop",
+      "pops",
+      "popped"
+    ],
+    "emoji": "📤🗑️",
+    "id": "gl486"
+  },
+  "portable": {
+    "word": "portable",
+    "definition": "able to work on different computers or systems without major changes.",
+    "variations": [
+      "portable",
+      "portability"
+    ],
+    "emoji": "🔁💻",
+    "id": "gl487"
+  },
+  "portfolio": {
+    "word": "portfolio",
+    "definition": "a collection of a learner’s work kept as evidence of learning or progress",
+    "variations": [
+      "portfolios"
+    ],
+    "emoji": "📁📝",
+    "id": "gl488"
+  },
+  "position": {
+    "word": "position",
+    "definition": "the place where something appears in text or data",
+    "variations": [
+      "positions"
+    ],
+    "emoji": "📍",
+    "id": "gl489"
+  },
+  "postfix": {
+    "word": "postfix",
+    "definition": "a form where the operator comes after the variable, so the old value is used first",
+    "variations": [
+      "postfix",
+      "postfixes"
+    ],
+    "emoji": "➡️1️⃣",
+    "id": "gl490"
+  },
+  "pow": {
+    "word": "pow",
+    "definition": "a function used to raise a number to a power",
+    "variations": [
+      "pow()"
+    ],
+    "emoji": "🔢⬆️",
+    "id": "gl491"
+  },
+  "power surge": {
+    "word": "power surge",
+    "definition": "a sudden increase in electrical power that can damage electronic devices.",
+    "variations": [
+      "power surge",
+      "power surges"
+    ],
+    "emoji": "⚡🔌",
+    "id": "gl492"
+  },
+  "prefix": {
+    "word": "prefix",
+    "definition": "a form where the operator comes before the variable, so the value changes first",
+    "variations": [
+      "prefix",
+      "prefixes"
+    ],
+    "emoji": "⬅️1️⃣",
+    "id": "gl493"
+  },
+  "preprocessor command": {
+    "word": "preprocessor command",
+    "definition": "a command handled before compilation begins, such as including a library file",
+    "variations": [
+      "preprocessor commands",
+      "preprocessor directive",
+      "preprocessor directives"
+    ],
+    "emoji": "⚙️📄",
+    "id": "gl494"
+  },
+  "preservation": {
+    "word": "preservation",
+    "definition": "the act of keeping digital evidence safe and unchanged",
+    "variations": [
+      "preservation",
+      "preserve",
+      "preserved"
+    ],
+    "emoji": "🛡️💾",
+    "id": "gl495"
+  },
+  "preventive maintenance": {
+    "word": "preventive maintenance",
+    "definition": "Maintenance done to stop future problems before they happen.",
+    "variations": [
+      "preventive maintenance"
+    ],
+    "emoji": "🛡️🔧",
+    "id": "gl496"
+  },
+  "print statement": {
+    "word": "print statement",
+    "definition": "A command that shows text or values on the screen, often used to check what a program is doing.",
+    "variations": [
+      "print statement",
+      "print statements"
+    ],
+    "emoji": "🖨️🔎",
+    "id": "gl497"
+  },
+  "print()": {
+    "word": "print()",
+    "definition": "A Python function that displays text, numbers, or results on the screen.",
+    "variations": [
+      "print()",
+      "print"
+    ],
+    "emoji": "🖨️📺",
+    "id": "gl498"
+  },
+  "printf": {
+    "word": "printf",
+    "definition": "a C function used to display output on the screen",
+    "variations": [
+      "printf()"
+    ],
+    "emoji": "📺🖨️",
+    "id": "gl499"
+  },
+  "privacy": {
+    "word": "privacy",
+    "definition": "the right to keep personal information and online activity from being seen by others without permission",
+    "variations": [
+      "privacy"
+    ],
+    "emoji": "🔒🙈",
+    "id": "gl500"
+  },
+  "problem definition": {
+    "word": "problem definition",
+    "definition": "The stage where the programmer clearly explains the problem and what the program should do.",
+    "variations": [
+      "problem definition",
+      "problem definitions"
+    ],
+    "emoji": "❗📝",
+    "id": "gl501"
+  },
+  "procedural language": {
+    "word": "procedural language",
+    "definition": "a programming language that follows instructions step by step, often using procedures or functions.",
+    "variations": [
+      "procedural language",
+      "procedural languages"
+    ],
+    "emoji": "➡️📋",
+    "id": "gl502"
+  },
+  "process node": {
+    "word": "process node",
+    "definition": "A flowchart box that shows an action or step the program should carry out.",
+    "variations": [
+      "process node",
+      "process nodes"
+    ],
+    "emoji": "📦⚙️",
+    "id": "gl503"
+  },
+  "productivity": {
+    "word": "productivity",
+    "definition": "the ability to do work effectively and complete tasks efficiently",
+    "variations": [],
+    "emoji": "⚙️📊",
+    "id": "gl504"
+  },
+  "profile": {
+    "word": "profile",
+    "definition": "a personal page or account that shows information about a user on a platform",
+    "variations": [
+      "profile",
+      "profiles"
+    ],
+    "emoji": "👤📄",
+    "id": "gl505"
+  },
+  "program": {
+    "word": "program",
+    "definition": "A set of instructions that tells a computer what to do.",
+    "variations": [
+      "program",
+      "programs",
+      "programming"
+    ],
+    "emoji": "💻🧠",
+    "id": "gl506"
+  },
+  "program design": {
+    "word": "program design",
+    "definition": "The planning stage where the structure and steps of a program are prepared before coding.",
+    "variations": [
+      "program design",
+      "designing a program"
+    ],
+    "emoji": "📐🧠",
+    "id": "gl507"
+  },
+  "programming": {
+    "word": "programming",
+    "definition": "the act of creating instructions that tell a computer what to do",
+    "variations": [
+      "programming",
+      "program",
+      "programs",
+      "programmed"
+    ],
+    "emoji": "💻🧠",
+    "id": "gl508"
+  },
+  "programming environment": {
+    "word": "programming environment",
+    "definition": "the set of tools and space used to write, test, and run computer programs",
+    "variations": [
+      "programming environments"
+    ],
+    "emoji": "💻🧪",
+    "id": "gl509"
+  },
+  "programming language": {
+    "word": "programming language",
+    "definition": "a special language used to write instructions that computers can understand after translation",
+    "variations": [
+      "programming languages"
+    ],
+    "emoji": "🗣️💻",
+    "id": "gl510"
+  },
+  "protocol": {
+    "word": "protocol",
+    "definition": "A set of rules that tells devices how to exchange data on a network.",
+    "variations": [
+      "protocol",
+      "protocols"
+    ],
+    "emoji": "📏🌐",
+    "id": "gl511"
+  },
+  "pseudocode": {
+    "word": "pseudocode",
+    "definition": "A simple way of writing the steps of an algorithm using plain language that looks like code.",
+    "variations": [
+      "pseudocode"
+    ],
+    "emoji": "📝💡",
+    "id": "gl512"
+  },
+  "Python": {
+    "word": "Python",
+    "definition": "a high-level programming language known for being simple to read and write",
+    "variations": [
+      "Python"
+    ],
+    "emoji": "🐍💻",
+    "id": "gl513"
+  },
+  "query language": {
+    "word": "query language",
+    "definition": "a language used to ask for and manage information in a database.",
+    "variations": [
+      "query language",
+      "query languages"
+    ],
+    "emoji": "🔎🗄️",
+    "id": "gl514"
+  },
+  "queue": {
+    "word": "queue",
+    "definition": "A data structure where the first item added is the first one removed.",
+    "variations": [
+      "queue",
+      "queues"
+    ],
+    "emoji": "🚶➡️",
+    "id": "gl515"
+  },
+  "RAM": {
+    "word": "RAM",
+    "definition": "temporary memory that stores data and programs the computer is using right now",
+    "variations": [
+      "main memory"
+    ],
+    "emoji": "⚡💾",
+    "id": "gl516"
+  },
+  "randint": {
+    "word": "randint",
+    "definition": "a function that gives a random whole number between two values",
+    "variations": [
+      "randint()"
+    ],
+    "emoji": "🎲🔢",
+    "id": "gl517"
+  },
+  "random": {
+    "word": "random",
+    "definition": "chosen by chance, not in a fixed order",
+    "variations": [
+      "random",
+      "randomly"
+    ],
+    "emoji": "🎲❔",
+    "id": "gl518"
+  },
+  "range": {
+    "word": "range",
+    "definition": "A built-in Python function that creates a sequence of numbers.",
+    "variations": [
+      "range",
+      "ranges",
+      "range()"
+    ],
+    "emoji": "🔢📏",
+    "id": "gl519"
+  },
+  "ranking": {
+    "word": "ranking",
+    "definition": "the process of ordering search results so the most useful or relevant ones appear first",
+    "variations": [
+      "rank",
+      "ranks",
+      "ranked",
+      "ranking"
+    ],
+    "emoji": "🥇📊",
+    "id": "gl520"
+  },
+  "ransomware": {
+    "word": "ransomware",
+    "definition": "malware that locks files or a device and demands money to unlock them.",
+    "variations": [
+      "ransomware"
+    ],
+    "emoji": "🔒💰",
+    "id": "gl521"
+  },
+  "reaction time": {
+    "word": "reaction time",
+    "definition": "the amount of time it takes for a person to respond after a signal",
+    "variations": [
+      "reaction time",
+      "reaction times"
+    ],
+    "emoji": "⚡⏱️",
+    "id": "gl522"
+  },
+  "read": {
+    "word": "read",
+    "definition": "To get data from a file or from input.",
+    "variations": [
+      "read",
+      "reads",
+      "reading"
+    ],
+    "emoji": "📖👀",
+    "id": "gl523"
+  },
+  "real-time": {
+    "word": "real-time",
+    "definition": "happening immediately as events occur, without delay",
+    "variations": [
+      "real-time"
+    ],
+    "emoji": "⏱️📶",
+    "id": "gl524"
+  },
+  "recipient": {
+    "word": "recipient",
+    "definition": "the person who receives a message, email, or file",
+    "variations": [
+      "recipients"
+    ],
+    "emoji": "📨👤",
+    "id": "gl525"
+  },
+  "regulation": {
+    "word": "regulation",
+    "definition": "an official rule or law that controls how something should be done",
+    "variations": [
+      "regulations"
+    ],
+    "emoji": "⚖️📜",
+    "id": "gl526"
+  },
+  "relational operator": {
+    "word": "relational operator",
+    "definition": "An operator used to compare two values.",
+    "variations": [
+      "relational operator",
+      "relational operators"
+    ],
+    "emoji": "⚖️🔍",
+    "id": "gl527"
+  },
+  "relevance": {
+    "word": "relevance",
+    "definition": "how closely information matches what you are looking for",
+    "variations": [
+      "relevant",
+      "relevance"
+    ],
+    "emoji": "🎯✅",
+    "id": "gl528"
+  },
+  "remainder": {
+    "word": "remainder",
+    "definition": "The amount left after one number is divided by another.",
+    "variations": [
+      "remainder",
+      "remainders"
+    ],
+    "emoji": "➖🔢",
+    "id": "gl529"
+  },
+  "remote server": {
+    "word": "remote server",
+    "definition": "a server in another location that stores or manages your data through the Internet",
+    "variations": [
+      "remote server",
+      "remote servers"
+    ],
+    "emoji": "🌐🖥️",
+    "id": "gl530"
+  },
+  "remove": {
+    "word": "remove",
+    "definition": "Remove is a list method that deletes a chosen item from a list.",
+    "variations": [
+      "remove",
+      "removes",
+      "removed"
+    ],
+    "emoji": "➖🗑️",
+    "id": "gl531"
+  },
+  "repeat": {
+    "word": "repeat",
+    "definition": "to do the same instruction a set number of times",
+    "variations": [
+      "repeat",
+      "repeats",
+      "repeated",
+      "repeating"
+    ],
+    "emoji": "🔁🔂",
+    "id": "gl532"
+  },
+  "replace": {
+    "word": "replace",
+    "definition": "Replace is a string method that changes one part of a string into another.",
+    "variations": [
+      "replace",
+      "replaces",
+      "replaced"
+    ],
+    "emoji": "♻️🔤",
+    "id": "gl533"
+  },
+  "reply": {
+    "word": "reply",
+    "definition": "to send an answer to an email message",
+    "variations": [
+      "reply",
+      "replies",
+      "replied",
+      "replying"
+    ],
+    "emoji": "↩️📧",
+    "id": "gl534"
+  },
+  "reputation": {
+    "word": "reputation",
+    "definition": "what people think about a person based on their actions or behavior",
+    "variations": [
+      "online reputation"
+    ],
+    "emoji": "🌟👤",
+    "id": "gl535"
+  },
+  "request-response": {
+    "word": "request-response",
+    "definition": "a communication pattern where one device asks for something and another device sends back the result",
+    "variations": [
+      "request-response"
+    ],
+    "emoji": "📨📩",
+    "id": "gl536"
+  },
+  "reset": {
+    "word": "reset",
+    "definition": "to return a game or program to its starting state",
+    "variations": [
+      "reset",
+      "resets",
+      "resetting"
+    ],
+    "emoji": "🔄🧹",
+    "id": "gl537"
+  },
+  "resource": {
+    "word": "resource",
+    "definition": "Useful information, tools, or materials that help people learn or work.",
+    "variations": [
+      "resource",
+      "resources"
+    ],
+    "emoji": "📚🛠️",
+    "id": "gl538"
+  },
+  "retrieve": {
+    "word": "retrieve",
+    "definition": "To get back stored data from a file or memory.",
+    "variations": [
+      "retrieve",
+      "retrieves",
+      "retrieved",
+      "retrieving"
+    ],
+    "emoji": "📂🔎",
+    "id": "gl539"
+  },
+  "return": {
+    "word": "return",
+    "definition": "To send a value back from a function when it finishes.",
+    "variations": [
+      "return",
+      "returns",
+      "returned",
+      "returning"
+    ],
+    "emoji": "↩️📤",
+    "id": "gl540"
+  },
+  "return type": {
+    "word": "return type",
+    "definition": "the type of value a function gives back after it finishes",
+    "variations": [
+      "return type",
+      "return types"
+    ],
+    "emoji": "↩️🏷️",
+    "id": "gl541"
+  },
+  "reverse order": {
+    "word": "reverse order",
+    "definition": "The opposite direction from normal order, such as from last item to first item.",
+    "variations": [
+      "reverse order"
+    ],
+    "emoji": "↩️🔄",
+    "id": "gl542"
+  },
+  "router": {
+    "word": "router",
+    "definition": "a device that directs Internet or network data to the correct connected devices",
+    "variations": [
+      "router",
+      "routers"
+    ],
+    "emoji": "📶🔀",
+    "id": "gl543"
+  },
+  "row": {
+    "word": "row",
+    "definition": "A horizontal line of values in a table or matrix.",
+    "variations": [
+      "row",
+      "rows"
+    ],
+    "emoji": "↔️📋",
+    "id": "gl544"
+  },
+  "rubber duck debugging": {
+    "word": "rubber duck debugging",
+    "definition": "A debugging method where you explain your code aloud to help yourself find the problem.",
+    "variations": [
+      "rubber duck debugging"
+    ],
+    "emoji": "🦆🗣️",
+    "id": "gl545"
+  },
+  "run-time error": {
+    "word": "run-time error",
+    "definition": "An error that happens while a program is running.",
+    "variations": [
+      "run-time error",
+      "run-time errors"
+    ],
+    "emoji": "🏃⚠️",
+    "id": "gl546"
+  },
+  "runtime error": {
+    "word": "runtime error",
+    "definition": "An error that happens while the program is running.",
+    "variations": [
+      "runtime error",
+      "runtime errors"
+    ],
+    "emoji": "⏱️⚠️",
+    "id": "gl547"
+  },
+  "safe browsing": {
+    "word": "safe browsing",
+    "definition": "using the Internet carefully to protect yourself and your personal information from danger",
+    "variations": [
+      "safe browsing"
+    ],
+    "emoji": "🌐🛡️",
+    "id": "gl548"
+  },
+  "satellite Internet": {
+    "word": "satellite Internet",
+    "definition": "an Internet connection that uses satellites to provide access, especially in remote areas",
+    "variations": [
+      "satellite Internet"
+    ],
+    "emoji": "🛰️🌍",
+    "id": "gl549"
+  },
+  "scalability": {
+    "word": "scalability",
+    "definition": "the ability of a system to grow or shrink to meet changing needs",
+    "variations": [],
+    "emoji": "📈☁️",
+    "id": "gl550"
+  },
+  "scam": {
+    "word": "scam",
+    "definition": "a dishonest trick used to cheat people, often to steal money or personal information",
+    "variations": [
+      "scam",
+      "scams"
+    ],
+    "emoji": "⚠️💸",
+    "id": "gl551"
+  },
+  "scanf": {
+    "word": "scanf",
+    "definition": "a C function used to read input typed by the user",
+    "variations": [
+      "scanf()"
+    ],
+    "emoji": "⌨️📥",
+    "id": "gl552"
+  },
+  "schedule": {
+    "word": "schedule",
+    "definition": "A planned list of times for events or actions.",
+    "variations": [
+      "schedule",
+      "schedules",
+      "scheduled"
+    ],
+    "emoji": "🗓️⏰",
+    "id": "gl553"
+  },
+  "scope": {
+    "word": "scope",
+    "definition": "The part of a program where a variable can be used.",
+    "variations": [
+      "scope",
+      "scopes"
+    ],
+    "emoji": "📍🔎",
+    "id": "gl554"
+  },
+  "Scratch": {
+    "word": "Scratch",
+    "definition": "A visual programming language that lets users create programs by joining blocks instead of typing code.",
+    "variations": [
+      "Scratch"
+    ],
+    "emoji": "🧩🐱",
+    "id": "gl555"
+  },
+  "screen sharing": {
+    "word": "screen sharing",
+    "definition": "showing your device screen to other people during an online meeting or class",
+    "variations": [
+      "screen sharing"
+    ],
+    "emoji": "🖥️👥",
+    "id": "gl556"
+  },
+  "screenshot": {
+    "word": "screenshot",
+    "definition": "a picture of what is shown on a phone, tablet, or computer screen",
+    "variations": [
+      "screenshots"
+    ],
+    "emoji": "📸🖥️",
+    "id": "gl557"
+  },
+  "script": {
+    "word": "script",
+    "definition": "a file containing code instructions for a program",
+    "variations": [
+      "scripts"
+    ],
+    "emoji": "📜💻",
+    "id": "gl558"
+  },
+  "script area": {
+    "word": "script area",
+    "definition": "The place in Scratch where you connect blocks to build a program.",
+    "variations": [
+      "script area",
+      "scripts area",
+      "coding area"
+    ],
+    "emoji": "🧩✍️",
+    "id": "gl559"
+  },
+  "scripting language": {
+    "word": "scripting language",
+    "definition": "a programming language often used to automate tasks or build web applications.",
+    "variations": [
+      "scripting language",
+      "scripting languages"
+    ],
+    "emoji": "📜⚡",
+    "id": "gl560"
+  },
+  "SDLC": {
+    "word": "SDLC",
+    "definition": "Short for Software Development Life Cycle, a structured process for developing software.",
+    "variations": [
+      "SDLC",
+      "Software Development Life Cycle"
+    ],
+    "emoji": "💻📈",
+    "id": "gl561"
+  },
+  "search": {
+    "word": "search",
+    "definition": "to look for a word, value, or item in data",
+    "variations": [
+      "searches",
+      "searching",
+      "searched"
+    ],
+    "emoji": "🔍",
+    "id": "gl562"
+  },
+  "search engine": {
+    "word": "search engine",
+    "definition": "A website or tool that helps users find information on the Internet.",
+    "variations": [
+      "search engine",
+      "search engines"
+    ],
+    "emoji": "🔎🌐",
+    "id": "gl563"
+  },
+  "secure connection": {
+    "word": "secure connection",
+    "definition": "a protected link between your device and a website that helps keep information safe",
+    "variations": [
+      "secure connections"
+    ],
+    "emoji": "🔒🌐",
+    "id": "gl564"
+  },
+  "security": {
+    "word": "security",
+    "definition": "protection of devices, accounts, and information from harm, theft, or unauthorized access",
+    "variations": [
+      "security",
+      "security risks"
+    ],
+    "emoji": "🛡️🔐",
+    "id": "gl565"
+  },
+  "selection": {
+    "word": "selection",
+    "definition": "A control structure that chooses between different actions based on a condition.",
+    "variations": [
+      "selection",
+      "selections"
+    ],
+    "emoji": "🔀✅",
+    "id": "gl566"
+  },
+  "selection flow": {
+    "word": "selection flow",
+    "definition": "a program flow that chooses different actions based on conditions",
+    "variations": [
+      "selection flow"
+    ],
+    "emoji": "🔀✅",
+    "id": "gl567"
+  },
+  "self-esteem": {
+    "word": "self-esteem",
+    "definition": "how much confidence and value a person feels about themselves",
+    "variations": [
+      "self-esteem"
+    ],
+    "emoji": "🙂💭",
+    "id": "gl568"
+  },
+  "semicolon": {
+    "word": "semicolon",
+    "definition": "The symbol ';' used in C to end many statements.",
+    "variations": [
+      "semicolon",
+      "semicolons"
+    ],
+    "emoji": ";✏️",
+    "id": "gl569"
+  },
+  "sensor": {
+    "word": "sensor",
+    "definition": "a part of a device that detects changes such as movement, heat, or light and collects data",
+    "variations": [
+      "sensor",
+      "sensors"
+    ],
+    "emoji": "📡🔍",
+    "id": "gl570"
+  },
+  "sentence": {
+    "word": "sentence",
+    "definition": "a group of words written together as one complete thought",
+    "variations": [
+      "sentences"
+    ],
+    "emoji": "📝",
+    "id": "gl571"
+  },
+  "sequence": {
+    "word": "sequence",
+    "definition": "A control structure in which instructions are carried out one after another in order.",
+    "variations": [
+      "sequence",
+      "sequences"
+    ],
+    "emoji": "1️⃣2️⃣3️⃣",
+    "id": "gl572"
+  },
+  "sequential flow": {
+    "word": "sequential flow",
+    "definition": "the normal order where program statements run one after another from top to bottom",
+    "variations": [
+      "sequential flow"
+    ],
+    "emoji": "1️⃣➡️",
+    "id": "gl573"
+  },
+  "server": {
+    "word": "server",
+    "definition": "a computer or system that provides services, data, or resources to other devices",
+    "variations": [
+      "server",
+      "servers"
+    ],
+    "emoji": "🖥️📤",
+    "id": "gl574"
+  },
+  "short circuit": {
+    "word": "short circuit",
+    "definition": "an electrical problem that happens when electricity flows the wrong way and may damage a device.",
+    "variations": [
+      "short circuit",
+      "short circuits"
+    ],
+    "emoji": "⚡🔥",
+    "id": "gl575"
+  },
+  "shoulder surfing": {
+    "word": "shoulder surfing",
+    "definition": "secretly watching someone type or enter private information.",
+    "variations": [
+      "shoulder surfing"
+    ],
+    "emoji": "👀🧍",
+    "id": "gl576"
+  },
+  "sign in": {
+    "word": "sign in",
+    "definition": "to enter your username and password to access an account",
+    "variations": [
+      "sign in",
+      "sign-in",
+      "signed in",
+      "signing in",
+      "log in",
+      "logged in",
+      "logging in"
+    ],
+    "emoji": "🔑💻",
+    "id": "gl577"
+  },
+  "sign out": {
+    "word": "sign out",
+    "definition": "to safely leave an account so other people cannot access it",
+    "variations": [
+      "sign out",
+      "sign-out",
+      "signed out",
+      "signing out",
+      "log out",
+      "logged out",
+      "logging out"
+    ],
+    "emoji": "🚪🔒",
+    "id": "gl578"
+  },
+  "simulator": {
+    "word": "simulator",
+    "definition": "a program that copies how a real device or system works",
+    "variations": [
+      "simulator",
+      "simulators",
+      "simulate",
+      "simulation",
+      "simulations"
+    ],
+    "emoji": "🖥️🎮",
+    "id": "gl579"
+  },
+  "single-line comment": {
+    "word": "single-line comment",
+    "definition": "A comment written on one line, usually starting with the # symbol.",
+    "variations": [
+      "single-line comment",
+      "single-line comments"
+    ],
+    "emoji": "#️⃣📝",
+    "id": "gl580"
+  },
+  "sleep": {
+    "word": "sleep",
+    "definition": "a function that pauses a program for a given number of seconds",
+    "variations": [
+      "sleep()"
+    ],
+    "emoji": "😴⏸️",
+    "id": "gl581"
+  },
+  "smartphone": {
+    "word": "smartphone",
+    "definition": "a mobile phone that can connect to the Internet and run apps",
+    "variations": [
+      "smartphone",
+      "smartphones"
+    ],
+    "emoji": "📱🌐",
+    "id": "gl582"
+  },
+  "snake_case": {
+    "word": "snake_case",
+    "definition": "A way of writing names using lowercase words separated by underscores.",
+    "variations": [
+      "snake_case"
+    ],
+    "emoji": "🐍_",
+    "id": "gl583"
+  },
+  "social engineering": {
+    "word": "social engineering",
+    "definition": "tricking people into giving away private information or access.",
+    "variations": [
+      "social engineering"
+    ],
+    "emoji": "🧠🎭",
+    "id": "gl584"
+  },
+  "social media": {
+    "word": "social media",
+    "definition": "websites and apps where people share messages, photos, videos, and ideas",
+    "variations": [
+      "social media"
+    ],
+    "emoji": "💬📱",
+    "id": "gl585"
+  },
+  "software": {
+    "word": "software",
+    "definition": "the programs and instructions that tell computer hardware what to do",
+    "variations": [
+      "softwares"
+    ],
+    "emoji": "💾🖥️",
+    "id": "gl586"
+  },
+  "software developer": {
+    "word": "software developer",
+    "definition": "A person who creates computer programs and applications.",
+    "variations": [
+      "software developer",
+      "software developers"
+    ],
+    "emoji": "💻👨‍💻👩‍💻",
+    "id": "gl587"
+  },
+  "solar flare": {
+    "word": "solar flare",
+    "definition": "a powerful burst of energy from the sun that can affect communication and electrical systems.",
+    "variations": [
+      "solar flare",
+      "solar flares"
+    ],
+    "emoji": "☀️⚡",
+    "id": "gl588"
+  },
+  "sound block": {
+    "word": "sound block",
+    "definition": "A Scratch block that adds sounds or music to a project.",
+    "variations": [
+      "sound block",
+      "sound blocks"
+    ],
+    "emoji": "🔊🎵",
+    "id": "gl589"
+  },
+  "source": {
+    "word": "source",
+    "definition": "the place where information comes from, such as a website, book, or article",
+    "variations": [
+      "source",
+      "sources"
+    ],
+    "emoji": "📄📚",
+    "id": "gl590"
+  },
+  "source code": {
+    "word": "source code",
+    "definition": "the original code written by a programmer in a programming language",
+    "variations": [],
+    "emoji": "⌨️📝",
+    "id": "gl591"
+  },
+  "source file": {
+    "word": "source file",
+    "definition": "a file that stores the source code of a program",
+    "variations": [
+      "source files"
+    ],
+    "emoji": "📄💾",
+    "id": "gl592"
+  },
+  "spam": {
+    "word": "spam",
+    "definition": "unwanted or suspicious email messages, often sent to many people",
+    "variations": [
+      "spam"
+    ],
+    "emoji": "🚫📩",
+    "id": "gl593"
+  },
+  "spamming": {
+    "word": "spamming",
+    "definition": "sending many unwanted messages, usually by email.",
+    "variations": [
+      "spamming",
+      "spam"
+    ],
+    "emoji": "📧🚫",
+    "id": "gl594"
+  },
+  "spider": {
+    "word": "spider",
+    "definition": "another name for a crawler that moves through web pages and follows links",
+    "variations": [
+      "spider",
+      "spiders"
+    ],
+    "emoji": "🕷️🤖",
+    "id": "gl595"
+  },
+  "split": {
+    "word": "split",
+    "definition": "Split is a string method that breaks a string into smaller parts and returns them as a list.",
+    "variations": [
+      "split",
+      "splits"
+    ],
+    "emoji": "✂️📋",
+    "id": "gl596"
+  },
+  "spoofing": {
+    "word": "spoofing",
+    "definition": "pretending to be a trusted person, email, website, or device in order to deceive others",
+    "variations": [
+      "spoof",
+      "spoofing"
+    ],
+    "emoji": "🎭📧",
+    "id": "gl597"
+  },
+  "sprite": {
+    "word": "sprite",
+    "definition": "A character or object in Scratch that performs actions on the stage.",
+    "variations": [
+      "sprite",
+      "sprites"
+    ],
+    "emoji": "🐱🎮",
+    "id": "gl598"
+  },
+  "spyware": {
+    "word": "spyware",
+    "definition": "software that secretly collects information about a user and sends it to others.",
+    "variations": [
+      "spyware"
+    ],
+    "emoji": "👀🕵️",
+    "id": "gl599"
+  },
+  "SQL injection": {
+    "word": "SQL injection",
+    "definition": "an attack where harmful code is entered into a website to access or change data.",
+    "variations": [
+      "SQL injection"
+    ],
+    "emoji": "💉🗄️",
+    "id": "gl600"
+  },
+  "sqrt": {
+    "word": "sqrt",
+    "definition": "a function used to find the square root of a number",
+    "variations": [
+      "sqrt()"
+    ],
+    "emoji": "√🔢",
+    "id": "gl601"
+  },
+  "square root": {
+    "word": "square root",
+    "definition": "a number that, when multiplied by itself, gives the original number",
+    "variations": [
+      "square roots"
+    ],
+    "emoji": "√🔢",
+    "id": "gl602"
+  },
+  "SSID": {
+    "word": "SSID",
+    "definition": "the name of a Wi‑Fi network that appears on your device when you search for networks",
+    "variations": [
+      "SSID",
+      "SSIDs"
+    ],
+    "emoji": "📛📶",
+    "id": "gl603"
+  },
+  "SSL certificate": {
+    "word": "SSL certificate",
+    "definition": "a digital certificate that helps make a website connection secure",
+    "variations": [
+      "SSL certificate",
+      "SSL certificates"
+    ],
+    "emoji": "📜🔐",
+    "id": "gl604"
+  },
+  "stack": {
+    "word": "stack",
+    "definition": "A data structure where the last item added is the first one removed.",
+    "variations": [
+      "stack",
+      "stacks"
+    ],
+    "emoji": "📚⬆️",
+    "id": "gl605"
+  },
+  "stage": {
+    "word": "stage",
+    "definition": "The area in Scratch where sprites, animations, and actions are shown.",
+    "variations": [
+      "stage",
+      "stages"
+    ],
+    "emoji": "🎭🖥️",
+    "id": "gl606"
+  },
+  "standard library": {
+    "word": "standard library",
+    "definition": "a collection of ready-made functions provided by the C language",
+    "variations": [
+      "standard library",
+      "standard libraries",
+      "C standard library"
+    ],
+    "emoji": "📚⚙️",
+    "id": "gl607"
+  },
+  "standardization": {
+    "word": "standardization",
+    "definition": "Standardization is the process of creating agreed rules or standards so systems and products work in a consistent way.",
+    "variations": [
+      "standardization",
+      "standardisation",
+      "standardize",
+      "standardise",
+      "standards"
+    ],
+    "emoji": "📏✅",
+    "id": "gl608"
+  },
+  "start": {
+    "word": "start",
+    "definition": "The beginning value in a sequence or range.",
+    "variations": [
+      "start",
+      "starts"
+    ],
+    "emoji": "🏁",
+    "id": "gl609"
+  },
+  "statement": {
+    "word": "statement",
+    "definition": "a complete instruction in a program",
+    "variations": [
+      "statements"
+    ],
+    "emoji": "📜💻",
+    "id": "gl610"
+  },
+  "steganography": {
+    "word": "steganography",
+    "definition": "the practice of hiding information inside another file, message, or image",
+    "variations": [
+      "steganography"
+    ],
+    "emoji": "🕵️🖼️🔍",
+    "id": "gl611"
+  },
+  "step": {
+    "word": "step",
+    "definition": "The amount by which numbers increase or decrease in a range.",
+    "variations": [
+      "step",
+      "steps"
+    ],
+    "emoji": "👣🔢",
+    "id": "gl612"
+  },
+  "stock trading": {
+    "word": "stock trading",
+    "definition": "buying and selling shares in companies",
+    "variations": [
+      "stock trading"
+    ],
+    "emoji": "📈💹",
+    "id": "gl613"
+  },
+  "stop": {
+    "word": "stop",
+    "definition": "The ending limit of a sequence or loop.",
+    "variations": [
+      "stop",
+      "stops"
+    ],
+    "emoji": "🛑",
+    "id": "gl614"
+  },
+  "storage": {
+    "word": "storage",
+    "definition": "the part of a computer where data and files are kept for later use",
+    "variations": [
+      "store",
+      "stores",
+      "stored"
+    ],
+    "emoji": "💽📦",
+    "id": "gl615"
+  },
+  "str()": {
+    "word": "str()",
+    "definition": "A Python function that changes a value into a string.",
+    "variations": [
+      "str()",
+      "str"
+    ],
+    "emoji": "🔤📝",
+    "id": "gl616"
+  },
+  "streamgraph": {
+    "word": "streamgraph",
+    "definition": "a type of graph with flowing layers used to show how data changes over time",
+    "variations": [
+      "streamgraph",
+      "streamgraphs"
+    ],
+    "emoji": "📊🌊",
+    "id": "gl617"
+  },
+  "streaming": {
+    "word": "streaming",
+    "definition": "watching or listening to digital content online without fully downloading it first",
+    "variations": [
+      "streaming",
+      "video streaming",
+      "streaming services"
+    ],
+    "emoji": "🎥▶️",
+    "id": "gl618"
+  },
+  "string": {
+    "word": "string",
+    "definition": "A data type used to store text, such as letters, words, or sentences.",
+    "variations": [
+      "string",
+      "strings"
+    ],
+    "emoji": "🔤📝",
+    "id": "gl619"
+  },
+  "string manipulation": {
+    "word": "string manipulation",
+    "definition": "changing or working with text in a program",
+    "variations": [
+      "string manipulation"
+    ],
+    "emoji": "✂️🔤",
+    "id": "gl620"
+  },
+  "strip": {
+    "word": "strip",
+    "definition": "Strip is a string method that removes extra spaces from the beginning and end of a string.",
+    "variations": [
+      "strip",
+      "strips",
+      "stripped"
+    ],
+    "emoji": "🧹🔤",
+    "id": "gl621"
+  },
+  "structured programming": {
+    "word": "structured programming",
+    "definition": "A way of programming that organises code clearly using simple control structures like sequence, selection, and repetition.",
+    "variations": [
+      "structured programming"
+    ],
+    "emoji": "🏗️📘",
+    "id": "gl622"
+  },
+  "subject line": {
+    "word": "subject line",
+    "definition": "the title of an email that tells what the message is about",
+    "variations": [
+      "subject line",
+      "subject lines"
+    ],
+    "emoji": "🏷️✉️",
+    "id": "gl623"
+  },
+  "subtraction": {
+    "word": "subtraction",
+    "definition": "A math operation that takes one value away from another.",
+    "variations": [
+      "subtraction",
+      "subtract"
+    ],
+    "emoji": "➖",
+    "id": "gl624"
+  },
+  "supply chain attack": {
+    "word": "supply chain attack",
+    "definition": "an attack that reaches users by first attacking a trusted company, app, or service.",
+    "variations": [
+      "supply chain attack",
+      "supply chain attacks"
+    ],
+    "emoji": "🔗💻",
+    "id": "gl625"
+  },
+  "syntax": {
+    "word": "syntax",
+    "definition": "The set of rules that tells how code must be written correctly in a programming language.",
+    "variations": [
+      "syntax"
+    ],
+    "emoji": "✍️📐",
+    "id": "gl626"
+  },
+  "syntax error": {
+    "word": "syntax error",
+    "definition": "A mistake in code that breaks the rules of the programming language and stops it from running properly.",
+    "variations": [
+      "syntax error",
+      "syntax errors"
+    ],
+    "emoji": "✍️❌",
+    "id": "gl627"
+  },
+  "syntax highlighting": {
+    "word": "syntax highlighting",
+    "definition": "a feature that shows parts of code in different colours so it is easier to read and understand.",
+    "variations": [
+      "syntax highlighting"
+    ],
+    "emoji": "🎨💻",
+    "id": "gl628"
+  },
+  "system software": {
+    "word": "system software",
+    "definition": "software that helps the computer run and manage its basic operations",
+    "variations": [],
+    "emoji": "🖥️⚙️",
+    "id": "gl629"
+  },
+  "tab": {
+    "word": "tab",
+    "definition": "a browser feature that lets you open and switch between several web pages in one window",
+    "variations": [
+      "tab",
+      "tabs"
+    ],
+    "emoji": "📑🌐",
+    "id": "gl630"
+  },
+  "TCP/IP": {
+    "word": "TCP/IP",
+    "definition": "basic communication rules that allow computers on networks to send and receive data",
+    "variations": [
+      "TCP/IP"
+    ],
+    "emoji": "📡💬",
+    "id": "gl631"
+  },
+  "Terminal": {
+    "word": "Terminal",
+    "definition": "a program used on Mac or Linux computers to type and run commands",
+    "variations": [
+      "Terminal"
+    ],
+    "emoji": "⌨️💻",
+    "id": "gl632"
+  },
+  "terms of service": {
+    "word": "terms of service",
+    "definition": "the rules and conditions a user agrees to when using a website or app",
+    "variations": [],
+    "emoji": "📜✅",
+    "id": "gl633"
+  },
+  "testing": {
+    "word": "testing",
+    "definition": "Checking a program to make sure it works correctly and meets requirements.",
+    "variations": [
+      "testing",
+      "test",
+      "tests"
+    ],
+    "emoji": "🧪✅",
+    "id": "gl634"
+  },
+  "text editor": {
+    "word": "text editor",
+    "definition": "a program used to write and edit source code or other text files",
+    "variations": [
+      "text editors"
+    ],
+    "emoji": "📝💻",
+    "id": "gl635"
+  },
+  "text file": {
+    "word": "text file",
+    "definition": "A file that stores information as plain readable characters.",
+    "variations": [
+      "text file",
+      "text files"
+    ],
+    "emoji": "📄🔤",
+    "id": "gl636"
+  },
+  "theft": {
+    "word": "theft",
+    "definition": "the act of taking something that does not belong to you.",
+    "variations": [
+      "theft",
+      "thefts"
+    ],
+    "emoji": "🕵️💼",
+    "id": "gl637"
+  },
+  "threat": {
+    "word": "threat",
+    "definition": "something that may cause harm or danger",
+    "variations": [
+      "threats",
+      "cyber threat",
+      "cyber threats"
+    ],
+    "emoji": "⚠️🚨",
+    "id": "gl638"
+  },
+  "time": {
+    "word": "time",
+    "definition": "a Python module used for time-related actions such as delays",
+    "variations": [],
+    "emoji": "⏰",
+    "id": "gl639"
+  },
+  "timer": {
+    "word": "timer",
+    "definition": "a tool that measures time in a program",
+    "variations": [
+      "timer",
+      "timers"
+    ],
+    "emoji": "⏲️⌚",
+    "id": "gl640"
+  },
+  "To field": {
+    "word": "To field",
+    "definition": "the space in an email where you type the main receiver’s email address",
+    "variations": [
+      "To field",
+      "To fields"
+    ],
+    "emoji": "📨👤",
+    "id": "gl641"
+  },
+  "toolbox": {
+    "word": "toolbox",
+    "definition": "a simple way to describe a module that contains useful programming tools",
+    "variations": [
+      "toolboxes"
+    ],
+    "emoji": "🧰",
+    "id": "gl642"
+  },
+  "transaction": {
+    "word": "transaction",
+    "definition": "an act of buying, selling, or exchanging money or information",
+    "variations": [
+      "transaction",
+      "transactions"
+    ],
+    "emoji": "💱🧾",
+    "id": "gl643"
+  },
+  "transfer": {
+    "word": "transfer",
+    "definition": "To move data from one place, file, or program to another.",
+    "variations": [
+      "transfer",
+      "transfers",
+      "transferred",
+      "transferring"
+    ],
+    "emoji": "📤📥",
+    "id": "gl644"
+  },
+  "translator": {
+    "word": "translator",
+    "definition": "a program that converts code from one form into machine-readable language",
+    "variations": [
+      "translators"
+    ],
+    "emoji": "🔄🗣️",
+    "id": "gl645"
+  },
+  "trash": {
+    "word": "trash",
+    "definition": "the folder where deleted emails are kept for some time before being removed permanently",
+    "variations": [
+      "trash"
+    ],
+    "emoji": "🗑️✉️",
+    "id": "gl646"
+  },
+  "tree": {
+    "word": "tree",
+    "definition": "A data structure that organises data in connected levels like branches of a tree.",
+    "variations": [
+      "tree",
+      "trees"
+    ],
+    "emoji": "🌳🔗",
+    "id": "gl647"
+  },
+  "trigger": {
+    "word": "trigger",
+    "definition": "something that causes an action in a program to start",
+    "variations": [
+      "trigger",
+      "triggers",
+      "triggered",
+      "triggering"
+    ],
+    "emoji": "⚡🚀",
+    "id": "gl648"
+  },
+  "Trojan horse": {
+    "word": "Trojan horse",
+    "definition": "a harmful program that looks safe or useful but secretly causes damage or steals information.",
+    "variations": [
+      "Trojan horse",
+      "Trojan horses"
+    ],
+    "emoji": "🐴💻",
+    "id": "gl649"
+  },
+  "try-except": {
+    "word": "try-except",
+    "definition": "A programming structure used to catch and handle errors while a program is running.",
+    "variations": [
+      "try-except",
+      "try except"
+    ],
+    "emoji": "🧪🚫",
+    "id": "gl650"
+  },
+  "tutorial": {
+    "word": "tutorial",
+    "definition": "A lesson or guide that teaches how to do something.",
+    "variations": [
+      "tutorial",
+      "tutorials"
+    ],
+    "emoji": "🎥📘",
+    "id": "gl651"
+  },
+  "two-dimensional array": {
+    "word": "two-dimensional array",
+    "definition": "An array arranged like a table with rows and columns.",
+    "variations": [
+      "two-dimensional array",
+      "two-dimensional arrays"
+    ],
+    "emoji": "🧮📊",
+    "id": "gl652"
+  },
+  "two-factor authentication": {
+    "word": "two-factor authentication",
+    "definition": "a security method that requires two steps to prove your identity, such as a password and a code.",
+    "variations": [
+      "two-factor authentication"
+    ],
+    "emoji": "🔐📱",
+    "id": "gl653"
+  },
+  "type casting": {
+    "word": "type casting",
+    "definition": "Manually changing a value from one data type to another.",
+    "variations": [
+      "type casting",
+      "casting",
+      "cast"
+    ],
+    "emoji": "🪄🔄",
+    "id": "gl654"
+  },
+  "type conversion": {
+    "word": "type conversion",
+    "definition": "Changing a value from one data type to another.",
+    "variations": [
+      "type conversion",
+      "type conversions"
+    ],
+    "emoji": "🔄🔢",
+    "id": "gl655"
+  },
+  "type error": {
+    "word": "type error",
+    "definition": "An error that happens when an operation uses the wrong kind of data.",
+    "variations": [
+      "type error",
+      "type errors"
+    ],
+    "emoji": "🔤❌",
+    "id": "gl656"
+  },
+  "TypeError": {
+    "word": "TypeError",
+    "definition": "a Python error that happens when code uses the wrong kind of data together",
+    "variations": [],
+    "emoji": "🔤🔢❌",
+    "id": "gl657"
+  },
+  "unauthorised": {
+    "word": "unauthorised",
+    "definition": "not allowed or permitted to access something",
+    "variations": [
+      "unauthorised",
+      "unauthorized"
+    ],
+    "emoji": "⛔🔐",
+    "id": "gl658"
+  },
+  "unauthorized": {
+    "word": "unauthorized",
+    "definition": "without permission or approval",
+    "variations": [
+      "unauthorised",
+      "unauthorized access",
+      "unauthorised access"
+    ],
+    "emoji": "⛔🔓",
+    "id": "gl659"
+  },
+  "Unicode": {
+    "word": "Unicode",
+    "definition": "a system for representing text from many languages in a way computers can store and use",
+    "variations": [],
+    "emoji": "🌍🔤",
+    "id": "gl660"
+  },
+  "uninterruptible power supply": {
+    "word": "uninterruptible power supply",
+    "definition": "a device that gives temporary power to a computer when electricity goes off suddenly.",
+    "variations": [
+      "uninterruptible power supply",
+      "UPS",
+      "UPS devices"
+    ],
+    "emoji": "🔋⚡",
+    "id": "gl661"
+  },
+  "unit testing": {
+    "word": "unit testing",
+    "definition": "Testing small parts of a program one by one to make sure each part works correctly.",
+    "variations": [
+      "unit testing"
+    ],
+    "emoji": "🧩✅",
+    "id": "gl662"
+  },
+  "unpatched vulnerability": {
+    "word": "unpatched vulnerability",
+    "definition": "An unpatched vulnerability is a security weakness in software that has not yet been fixed by an update.",
+    "variations": [
+      "unpatched vulnerability",
+      "unpatched vulnerabilities"
+    ],
+    "emoji": "🛡️❌🐞",
+    "id": "gl663"
+  },
+  "uppercase": {
+    "word": "uppercase",
+    "definition": "Uppercase means capital letters such as A, B, and C.",
+    "variations": [
+      "uppercase"
+    ],
+    "emoji": "🔠",
+    "id": "gl664"
+  },
+  "URL": {
+    "word": "URL",
+    "definition": "the web address that shows where a page or file is located on the Internet",
+    "variations": [
+      "URL",
+      "URLs",
+      "Uniform Resource Locator",
+      "Uniform Resource Locators"
+    ],
+    "emoji": "🔍🌐",
+    "id": "gl665"
+  },
+  "usability testing": {
+    "word": "usability testing",
+    "definition": "Testing that checks whether a program is easy for people to use.",
+    "variations": [
+      "usability testing"
+    ],
+    "emoji": "👤👍",
+    "id": "gl666"
+  },
+  "user input": {
+    "word": "user input",
+    "definition": "information entered into a program by the user",
+    "variations": [
+      "user input",
+      "inputs"
+    ],
+    "emoji": "⌨️👤",
+    "id": "gl667"
+  },
+  "user interface": {
+    "word": "user interface",
+    "definition": "the part of a program that the user sees and interacts with, such as buttons and messages",
+    "variations": [
+      "user interface",
+      "user interfaces"
+    ],
+    "emoji": "🖥️👆",
+    "id": "gl668"
+  },
+  "user manual": {
+    "word": "user manual",
+    "definition": "A guide that explains to users how to use a program.",
+    "variations": [
+      "user manual",
+      "user manuals"
+    ],
+    "emoji": "📘👤",
+    "id": "gl669"
+  },
+  "ValueError": {
+    "word": "ValueError",
+    "definition": "a Python error that happens when a value has the right type but the wrong form",
+    "variations": [],
+    "emoji": "⚠️🔢",
+    "id": "gl670"
+  },
+  "variable": {
+    "word": "variable",
+    "definition": "A named place in memory used to store data that can change while a program runs.",
+    "variations": [
+      "variable",
+      "variables"
+    ],
+    "emoji": "📦🔤",
+    "id": "gl671"
+  },
+  "vendor": {
+    "word": "vendor",
+    "definition": "a person or company that sells software, hardware, or services to another company",
+    "variations": [
+      "vendor",
+      "vendors"
+    ],
+    "emoji": "🏢💼",
+    "id": "gl672"
+  },
+  "verification": {
+    "word": "verification",
+    "definition": "the act of checking that something or someone is correct or real",
+    "variations": [
+      "verification",
+      "verify",
+      "verified"
+    ],
+    "emoji": "✔️🔍",
+    "id": "gl673"
+  },
+  "verification code": {
+    "word": "verification code",
+    "definition": "a code sent to confirm that a person is really the owner of an account or phone number",
+    "variations": [
+      "verification code",
+      "verification codes"
+    ],
+    "emoji": "🔐📱",
+    "id": "gl674"
+  },
+  "version": {
+    "word": "version",
+    "definition": "A saved form of a program at a certain stage of development.",
+    "variations": [
+      "version",
+      "versions"
+    ],
+    "emoji": "💾🕒",
+    "id": "gl675"
+  },
+  "version control": {
+    "word": "version control",
+    "definition": "A system for tracking changes in code and returning to earlier versions if needed.",
+    "variations": [
+      "version control"
+    ],
+    "emoji": "🗂️🕒",
+    "id": "gl676"
+  },
+  "video conferencing": {
+    "word": "video conferencing",
+    "definition": "live online communication using video and sound between people in different places",
+    "variations": [
+      "video conferencing"
+    ],
+    "emoji": "🎥🗣️",
+    "id": "gl677"
+  },
+  "violation": {
+    "word": "violation",
+    "definition": "an action that breaks a rule or law",
+    "variations": [
+      "violations",
+      "violate",
+      "violated"
+    ],
+    "emoji": "🚫⚠️",
+    "id": "gl678"
+  },
+  "virtual classroom": {
+    "word": "virtual classroom",
+    "definition": "an online space where teachers and students meet for lessons",
+    "variations": [
+      "virtual classroom",
+      "virtual classrooms"
+    ],
+    "emoji": "🏫💻",
+    "id": "gl679"
+  },
+  "virtual private network": {
+    "word": "virtual private network",
+    "definition": "a secure connection that helps protect your Internet activity and data online",
+    "variations": [
+      "virtual private network",
+      "VPN",
+      "virtual private networks"
+    ],
+    "emoji": "🔒🌐",
+    "id": "gl680"
+  },
+  "virtual whiteboard": {
+    "word": "virtual whiteboard",
+    "definition": "an online board used for writing or drawing during digital lessons or meetings",
+    "variations": [
+      "virtual whiteboard",
+      "virtual whiteboards"
+    ],
+    "emoji": "📝📺",
+    "id": "gl681"
+  },
+  "virus": {
+    "word": "virus",
+    "definition": "a harmful computer program that can damage files or make a device unsafe",
+    "variations": [
+      "virus",
+      "viruses"
+    ],
+    "emoji": "🦠💻",
+    "id": "gl682"
+  },
+  "void function": {
+    "word": "void function",
+    "definition": "A function that does not return any value.",
+    "variations": [
+      "void function",
+      "void functions"
+    ],
+    "emoji": "🚫📤",
+    "id": "gl683"
+  },
+  "VPN": {
+    "word": "VPN",
+    "definition": "a tool that protects your Internet connection and helps keep your online activity private",
+    "variations": [
+      "VPNs",
+      "Virtual Private Network",
+      "Virtual Private Networks"
+    ],
+    "emoji": "🛡️🌐",
+    "id": "gl684"
+  },
+  "vulnerability": {
+    "word": "vulnerability",
+    "definition": "a weakness in a system that can be used to cause harm or gain access",
+    "variations": [
+      "vulnerabilities"
+    ],
+    "emoji": "🕳️⚠️",
+    "id": "gl685"
+  },
+  "wait": {
+    "word": "wait",
+    "definition": "to pause a program for a short time before the next action happens",
+    "variations": [
+      "wait",
+      "waits",
+      "waiting"
+    ],
+    "emoji": "⏳🕒",
+    "id": "gl686"
+  },
+  "web browser": {
+    "word": "web browser",
+    "definition": "a software program used to open, view, and use websites on the World Wide Web",
+    "variations": [
+      "web browser",
+      "web browsers",
+      "browser",
+      "browsers"
+    ],
+    "emoji": "🌐🧭",
+    "id": "gl687"
+  },
+  "web developer": {
+    "word": "web developer",
+    "definition": "A person who builds and maintains websites and web applications.",
+    "variations": [
+      "web developer",
+      "web developers"
+    ],
+    "emoji": "🌐💻",
+    "id": "gl688"
+  },
+  "web page": {
+    "word": "web page",
+    "definition": "a single page of information on a website that you can open in a browser",
+    "variations": [
+      "web page",
+      "web pages",
+      "webpage",
+      "webpages"
+    ],
+    "emoji": "📄🖥️",
+    "id": "gl689"
+  },
+  "web server": {
+    "word": "web server",
+    "definition": "a computer that stores websites and sends web pages to users when they request them",
+    "variations": [
+      "web server",
+      "web servers"
+    ],
+    "emoji": "🖥️📡",
+    "id": "gl690"
+  },
+  "website": {
+    "word": "website",
+    "definition": "A group of related web pages that can be visited on the Internet.",
+    "variations": [
+      "website",
+      "websites"
+    ],
+    "emoji": "🌍🖥️",
+    "id": "gl691"
+  },
+  "while loop": {
+    "word": "while loop",
+    "definition": "A loop that keeps running as long as a condition stays true.",
+    "variations": [
+      "while loop",
+      "while loops"
+    ],
+    "emoji": "⏳🔁",
+    "id": "gl692"
+  },
+  "white hat hacker": {
+    "word": "white hat hacker",
+    "definition": "a hacker who legally tests systems to find problems and improve security",
+    "variations": [
+      "white hat hacker",
+      "white hat hackers"
+    ],
+    "emoji": "🤍🛡️",
+    "id": "gl693"
+  },
+  "Wi-Fi": {
+    "word": "Wi-Fi",
+    "definition": "a wireless technology that lets devices connect to the Internet or a network without cables",
+    "variations": [
+      "Wi-Fi",
+      "wifi"
+    ],
+    "emoji": "📶🌐",
+    "id": "gl694"
+  },
+  "Wi‑Fi": {
+    "word": "Wi‑Fi",
+    "definition": "a wireless technology that connects devices to the Internet without cables",
+    "variations": [
+      "Wi‑Fi"
+    ],
+    "emoji": "📶📡",
+    "id": "gl695"
+  },
+  "World Wide Web": {
+    "word": "World Wide Web",
+    "definition": "a system of linked web pages and documents that people access through the Internet",
+    "variations": [
+      "World Wide Web",
+      "WWW",
+      "Web",
+      "web"
+    ],
+    "emoji": "🕸️🌍",
+    "id": "gl696"
+  },
+  "worm": {
+    "word": "worm",
+    "definition": "a harmful program that can spread from one computer to another by itself.",
+    "variations": [
+      "worm",
+      "worms"
+    ],
+    "emoji": "🪱💻",
+    "id": "gl697"
+  },
+  "write": {
+    "word": "write",
+    "definition": "To save or place data into a file.",
+    "variations": [
+      "write",
+      "writes",
+      "writing",
+      "written"
+    ],
+    "emoji": "✍️💾",
+    "id": "gl698"
+  },
+  "zero-based indexing": {
+    "word": "zero-based indexing",
+    "definition": "Zero-based indexing means counting starts at 0, so the first item has index 0.",
+    "variations": [
+      "zero-based indexing"
+    ],
+    "emoji": "0️⃣🔢",
+    "id": "gl699"
+  },
+  "ZeroDivisionError": {
+    "word": "ZeroDivisionError",
+    "definition": "a Python error that happens when a number is divided by zero",
+    "variations": [],
+    "emoji": "0️⃣➗❌",
+    "id": "gl700"
+  },
+  "Zoom meeting": {
+    "word": "Zoom meeting",
+    "definition": "A Zoom meeting is an online meeting where people can talk, see each other, share screens, and work together over the Internet.",
+    "variations": [
+      "Zoom meeting",
+      "Zoom meetings"
+    ],
+    "emoji": "🎥💬💻",
+    "id": "gl701"
+  }
+}
