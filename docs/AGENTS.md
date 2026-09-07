@@ -492,12 +492,6 @@ Controls which features the reader UI enables. This book's config:
     "trackerUrl": "https://unisitetracker.unicef.io/matomo.php",
     "srcUrl": "https://unisitetracker.unicef.io/matomo.js"
   },
-  "lockedSettings": [
-    "dockLayout",
-    "theme",
-    "iconSize",
-    "reduceMotion"
-  ],
   "fixedLayout": true
 }
 ```

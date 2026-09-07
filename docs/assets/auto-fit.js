@@ -35,6 +35,27 @@
     return (value || "").toLowerCase().replace(/[^a-z0-9]+/g, " ").trim()
   }
 
+  function romanValue(token) {
+    var roman = String(token || "").toUpperCase()
+    if (!/^(?=[MDCLXVI]+$)M{0,3}(CM|CD|D?C{0,3})(XC|XL|L?X{0,3})(IX|IV|V?I{0,3})$/.test(roman)) return null
+    var values = { I: 1, V: 5, X: 10, L: 50, C: 100, D: 500, M: 1000 }
+    var total = 0
+    for (var i = 0; i < roman.length; i++) {
+      var current = values[roman[i]]
+      var next = values[roman[i + 1]] || 0
+      total += current < next ? -current : current
+    }
+    return total || null
+  }
+
+  function accessibleTocLabel(original) {
+    var spoken = original.replace(/\s*\.{3,}\s*/g, ", ")
+    return spoken.replace(/\b([ivxlcdm]+)(?=\s*$)/i, function (token) {
+      var value = romanValue(token)
+      return value === null ? token : "Roman numeral " + value
+    })
+  }
+
   function normalizeTocRows() {
     var rows = document.querySelectorAll("#content [data-adt-fit]")
     for (var i = 0; i < rows.length; i++) {
@@ -54,7 +75,7 @@
           appendTocCells(row, segmentMatches[si], sourceSpans[si].style.cssText)
           stack.appendChild(row)
         }
-        rows[i].setAttribute("aria-label", original)
+        rows[i].setAttribute("aria-label", accessibleTocLabel(original))
         rows[i].replaceChildren(stack)
         rows[i].style.display = "block"
         rows[i].dataset.adtTocRow = "1"
@@ -63,7 +84,7 @@
       if (!match) continue
       var sample = rows[i].querySelector("span")
       var inherited = sample ? sample.style.cssText : ""
-      rows[i].setAttribute("aria-label", original)
+      rows[i].setAttribute("aria-label", accessibleTocLabel(original))
       rows[i].replaceChildren()
       appendTocCells(rows[i], match, inherited)
       rows[i].style.display = "flex"
@@ -106,6 +127,19 @@
   // boxes overlap, keep the paragraph in the accessibility tree but make the
   // duplicate visual paint transparent.
   function suppressRasterDuplicates() {
+    function readInset(value) {
+      var match = String(value || "").trim().match(/^inset\(([^)]+)\)$/)
+      if (!match) return null
+      var values = match[1].trim().split(/\s+/).map(function (part) {
+        return Number.parseFloat(part)
+      })
+      if (values.length < 1 || values.length > 4 || values.some(function (n) { return !Number.isFinite(n) })) return null
+      if (values.length === 1) return [values[0], values[0], values[0], values[0]]
+      if (values.length === 2) return [values[0], values[1], values[0], values[1]]
+      if (values.length === 3) return [values[0], values[1], values[2], values[1]]
+      return values
+    }
+
     var images = document.querySelectorAll("#content img[alt]")
     var text = document.querySelectorAll("#content p[data-id]")
     for (var i = 0; i < text.length; i++) {
@@ -116,11 +150,32 @@
         if (images[j].dataset.adtRasterPartial === "1") continue
         var description = normalizeText(images[j].getAttribute("alt"))
         var ir = images[j].getBoundingClientRect()
+        // getBoundingClientRect() reports the element's unclipped box. The
+        // fixed-layout renderer clips composite crops to exclude semantic
+        // prose; duplicate detection must compare against the pixels that
+        // remain visible, otherwise it hides text outside the crop.
+        var clip = images[j].style.clipPath || window.getComputedStyle(images[j]).clipPath || ""
+        var inset = readInset(clip)
+        if (inset) {
+          var cssWidth = Number.parseFloat(images[j].style.width) || ir.width
+          var scale = cssWidth > 0 ? ir.width / cssWidth : 1
+          var clipTop = inset[0] * scale
+          var clipBottom = inset[2] * scale
+          ir = {
+            left: ir.left,
+            right: ir.right,
+            top: ir.top + clipTop,
+            bottom: ir.bottom - clipBottom,
+            width: ir.width,
+            height: Math.max(0, ir.height - clipTop - clipBottom)
+          }
+        }
         var overlaps = tr.left < ir.right && tr.right > ir.left && tr.top < ir.bottom && tr.bottom > ir.top
         var intersectionWidth = Math.max(0, Math.min(tr.right, ir.right) - Math.max(tr.left, ir.left))
         var intersectionHeight = Math.max(0, Math.min(tr.bottom, ir.bottom) - Math.max(tr.top, ir.top))
-        var textArea = Math.max(1, tr.width * tr.height)
-        var fullyContained = intersectionWidth * intersectionHeight / textArea >= 0.96
+        var horizontalCoverage = intersectionWidth / Math.max(1, tr.width)
+        var verticalCoverage = intersectionHeight / Math.max(1, tr.height)
+        var fullyContained = verticalCoverage >= 0.75 && horizontalCoverage >= 0.5
         var rasterizedText = images[j].dataset.adtRasterText === "1"
         var evidencedByCaption = phrase.length >= 4 && description.includes(phrase)
         // A partial page crop can overlap the centre of a longer semantic
@@ -147,6 +202,11 @@
     if (!content) return
     var contentWidth = parseFloat(content.style.width) || content.clientWidth
     var paragraphs = Array.prototype.slice.call(content.querySelectorAll("p[data-id]"))
+    var rightColumnCount = paragraphs.filter(function (paragraph) {
+      var paragraphLeft = Number.parseFloat(paragraph.style.left)
+      return Number.isFinite(paragraphLeft) && paragraphLeft > contentWidth * 0.52 && (paragraph.textContent || "").trim().length >= 20
+    }).length
+    var hasRightColumn = rightColumnCount >= 2
     for (var i = 0; i < paragraphs.length; i++) {
       var el = paragraphs[i]
       var left = parseFloat(el.style.left)
@@ -157,7 +217,7 @@
       var mirroredWidth = contentWidth - left * 2
       var inMainTextBand = left >= contentWidth * 0.13 && left <= contentWidth * 0.19
       var anomalousBodyWidth = width < contentWidth * 0.58 || width > contentWidth * 0.78
-      if (phrase.length >= 80 && inMainTextBand && anomalousBodyWidth && mirroredWidth > 0) {
+      if (!hasRightColumn && phrase.length >= 80 && inMainTextBand && anomalousBodyWidth && mirroredWidth > 0) {
         el.style.width = Math.round(mirroredWidth) + "px"
         el.dataset.adtGeometryNormalized = "body"
         continue
